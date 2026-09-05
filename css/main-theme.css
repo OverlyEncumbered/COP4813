@@ -1,43 +1,34 @@
 body {
-  background-color: var(--color-background);
-  color: var(--color-text);
+	background-color: var(--color-background);
+	color: var(--color-text);
 }
-
 nav {
-  background-color: var(--color-card);
-  border-color: var(--color-border);
+	background-color: var(--color-card);
+	border-color: var(--color-border);
 }
-
 a {
-  color: var(--color-link);
+	color: var(--color-link);
 }
-
 a:hover {
-  color: var(--color-primary-hover);
+	color: var(--color-primary-hover);
 }
-
-
 /*css variables*/
 :root {
-  /* Background color */
-  --color-background: #11100f;
-  --color-surface: #1d1916;
-  --color-card: #29221c;
-
-  /* Text */
-  --color-text: #e2d4b3;
-  --color-text-muted: #a99d87;
-
-  /* Accents */
-  --color-primary: #c89b3c;
-  --color-primary-hover: #e2bc62;
-  --color-secondary: #813b32;
-
-  /* Interactive and status colors */
-  --color-active: #a7523f;
-  --color-link: #6f9b9d;
-  --color-success: #71805a;
-
-  /* Borders */
-  --color-border: #685438;
+	/* Background color */
+	--color-background: #11100f;
+	--color-surface: #1d1916;
+	--color-card: #29221c;
+	/* Text */
+	--color-text: #e2d4b3;
+	--color-text-muted: #a99d87;
+	/* Accents */
+	--color-primary: #c89b3c;
+	--color-primary-hover: #e2bc62;
+	--color-secondary: #813b32;
+	/* Interactive and status colors */
+	--color-active: #a7523f;
+	--color-link: #6f9b9d;
+	--color-success: #71805a;
+	/* Borders */
+	--color-border: #685438;
 }
