@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="description"
+        content="Assignment 3 form confirmation page."
+    >
+
+    <title>Confirm Information</title>
+
+    <link rel="stylesheet" href="css/main-theme.css">
+    <link rel="stylesheet" href="css/forms.css">
+
+</head>
+
+<body>
+
+    <header>
+
+        <nav>
+
+            <a class="logo" href="index.html">
+
+                <img
+                    src="assets/MoonAndStar.png"
+                    alt="Moon and Star"
+                >
+
+            </a>
+
+            <a href="index.html">Home</a>
+            <a href="assignment_1.html">About</a>
+            <a href="assignment_3.html">Forms</a>
+
+        </nav>
+
+    </header>
+
+
+    <main>
+
+        <h1>Confirm Your Information</h1>
+
+        <p>
+            Please review the information below before submitting.
+        </p>
+
+
+        <div class="confirmation">
+
+            <p>
+                <strong>Name:</strong>
+                <span id="confirmName"></span>
+            </p>
+
+            <p>
+                <strong>Address:</strong>
+                <span id="confirmAddress"></span>
+            </p>
+
+            <p>
+                <strong>Phone:</strong>
+                <span id="confirmPhone"></span>
+            </p>
+
+            <p>
+                <strong>Email:</strong>
+                <span id="confirmEmail"></span>
+            </p>
+
+            <p>
+                <strong>Birth Date:</strong>
+                <span id="confirmBirthdate"></span>
+            </p>
+
+            <p>
+                <strong>Message:</strong>
+            </p>
+
+            <p id="confirmMessage"></p>
+
+        </div>
+
+
+        <div class="confirmation-buttons">
+
+            <button
+                type="button"
+                id="confirmButton"
+            >
+                Confirm and Send
+            </button>
+
+
+            <button
+                type="button"
+                id="backButton"
+            >
+                Go Back
+            </button>
+
+        </div>
+
+    </main>
+
+
+    <script src="js/confirmation.js"></script>
+
+</body>
+</html>
