@@ -1,17 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-	background-color: var(--color-background);
-	color: var(--color-text);
+    margin: 0;
+    background-color: var(--color-background);
+    color: var(--color-text);
+    font-family: Arial, sans-serif;
 }
+
 nav {
-	background-color: var(--color-card);
-	border-color: var(--color-border);
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+
+    padding: 0.75rem 2rem;
+
+    background-color: var(--color-card);
+    border-bottom: 1px solid var(--color-border);
 }
+
+nav .logo {
+    margin-right: auto;
+}
+
+nav .logo img {
+    display: block;
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
+
+nav a {
+    color: var(--color-text);
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: var(--color-primary-hover);
+}
+
+main {
+    max-width: 900px;
+    margin: 3rem auto;
+    padding: 0 2rem;
+}
+
 a {
-	color: var(--color-link);
+    color: var(--color-link);
 }
+
 a:hover {
-	color: var(--color-primary-hover);
+    color: var(--color-primary-hover);
 }
+
 /*css variables*/
 :root {
 	/* Background color */
