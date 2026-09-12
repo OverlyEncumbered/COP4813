@@ -177,6 +177,6 @@ form.addEventListener("submit", function (event) {
         Move to confirmation page.
     */
 
-    window.location.href = "assignment_confirmation.html";
+    window.location.href = "assignment_3_confirmation.html";
 
 });
