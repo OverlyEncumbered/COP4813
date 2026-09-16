@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta
+        name="description"
+        content="An RC circuit calculator that plots capacitor voltage over time."
+    >
+    <title>Assignment 4 - RC Circuit Calculator</title>
+    <link rel="stylesheet" href="css/main-theme.css">
+    <link rel="stylesheet" href="css/assignment_4_plot.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <a class="logo" href="index.html">
+                <img src="assets/MoonAndStar.png" alt="Moon and Star">
+            </a>
+
+            <a href="index.html">Home</a>
+            <a href="assignment_1.html">About</a>
+            <a href="assignment_3.html">Forms</a>
+            <a href="assignment_4.html">Calculator</a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>RC Circuit Charging Calculator</h1>
+
+        <p>
+            This calculator finds the voltage across a charging capacitor over
+            time using the equation below.
+        </p>
+
+        <p class="equation">
+            V(t) = V<sub>s</sub>(1 - e<sup>-t/(RC)</sup>)
+        </p>
+
+        <p>
+            V(t) is the capacitor voltage, V<sub>s</sub> is the source voltage,
+            R is resistance, C is capacitance, and t is time.
+        </p>
+
+        <form id="calculatorForm">
+            <fieldset>
+                <legend>Circuit Values</legend>
+
+                <div class="input-grid">
+                    <p>
+                        <label for="sourceVoltage">Source Voltage (volts)</label>
+                        <input type="number" id="sourceVoltage" value="5" min="0.01" step="any" required>
+                    </p>
+
+                    <p>
+                        <label for="resistance">Resistance (ohms)</label>
+                        <input type="number" id="resistance" value="1000" min="0.01" step="any" required>
+                    </p>
+
+                    <p>
+                        <label for="capacitance">Capacitance (microfarads)</label>
+                        <input type="number" id="capacitance" value="100" min="0.01" step="any" required>
+                    </p>
+
+                    <p>
+                        <label for="startTime">Start Time (milliseconds)</label>
+                        <input type="number" id="startTime" value="0" min="0" step="any" required>
+                    </p>
+
+                    <p>
+                        <label for="endTime">End Time (milliseconds)</label>
+                        <input type="number" id="endTime" value="500" min="0.01" step="any" required>
+                    </p>
+                </div>
+
+                <button type="submit">Calculate and Plot</button>
+                <p id="errorMessage" role="alert"></p>
+            </fieldset>
+        </form>
+
+        <section id="results" aria-live="polite">
+            <h2>Results</h2>
+            <p id="summary"></p>
+
+            <div class="chart-container">
+                <canvas id="voltageChart"></canvas>
+            </div>
+
+            <h3>Selected Calculated Values</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th scope="col">Time (ms)</th>
+                        <th scope="col">Voltage (V)</th>
+                    </tr>
+                </thead>
+                <tbody id="resultsTable"></tbody>
+            </table>
+        </section>
+
+        <p><a href="index.html">Return to Menu</a></p>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+    <script src="js/assignment_4_plot.js"></script>
+
+</body>
+</html>
