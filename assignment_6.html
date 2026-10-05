@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Display fencing rankings from an external JSON file.">
+    <title>Assignment 6 - JSON</title>
+    <link rel="stylesheet" href="css/main-theme.css">
+    <link rel="stylesheet" href="css/assignment_6_json.css">
+    <script src="js/assignment_6_json.js" defer></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <a class="logo" href="index.html"><img src="assets/MoonAndStar.png" alt="Moon and Star"></a>
+            <a href="index.html">Home</a>
+            <a href="assignment_1.html">About</a>
+            <a href="assignment_3.html">Forms</a>
+            <a href="assignment_4.html">Calculator</a>
+            <a href="assignment_5.html">Spirograph</a>
+            <a href="assignment_6.html" aria-current="page">JSON</a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Assignment 6 - JSON</h1>
+        <p>Senior Women’s Individual Épée rankings for the 2026/2027 season, loaded from an external JSON file.</p>
+        <p><a href="data/fencing.json">View the JSON data</a></p>
+        <p id="rankingStatus" role="status">Loading rankings...</p>
+        <div class="table-container">
+            <table>
+                <caption>2026/2027 Senior Women’s Individual Épée Rankings</caption>
+                <thead>
+                    <tr>
+                        <th scope="col">Rank</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Country</th>
+                        <th scope="col">Points</th>
+                    </tr>
+                </thead>
+                <tbody id="rankingBody"></tbody>
+            </table>
+        </div>
+        <noscript><p>Enable JavaScript to load the rankings.</p></noscript>
+        <p><a href="index.html">Return to Menu</a></p>
+    </main>
+</body>
+</html>

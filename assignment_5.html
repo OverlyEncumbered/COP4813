@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Draw a random Spirograph pattern with the HTML5 canvas.">
+    <title>Assignment 5 - Spirograph</title>
+    <link rel="stylesheet" href="css/main-theme.css">
+    <link rel="stylesheet" href="css/assignment_5_canvas.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a class="logo" href="index.html"><img src="assets/MoonAndStar.png" alt="Moon and Star"></a>
+            <a href="index.html">Home</a>
+            <a href="assignment_1.html">About</a>
+            <a href="assignment_3.html">Forms</a>
+            <a href="assignment_4.html">Calculator</a>
+            <a href="assignment_5.html" aria-current="page">Spirograph</a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Spirograph</h1>
+        <p>Press the button to draw a pattern. Press it again for a new one.</p>
+        <button id="drawButton" type="button">Draw Spirograph</button>
+        <p id="drawingStatus" role="status" aria-live="polite"></p>
+        <canvas id="spirograph" width="700" height="700" aria-label="Spirograph drawing"></canvas>
+        <p><a href="index.html">Return to Menu</a></p>
+    </main>
+
+    <script src="js/assignment_5_canvas.js"></script>
+</body>
+</html>

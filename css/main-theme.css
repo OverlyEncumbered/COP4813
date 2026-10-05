@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: var(--color-background);
+    color: var(--color-text);
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+
+    padding: 0.75rem 2rem;
+
+    background-color: var(--color-card);
+    border-bottom: 1px solid var(--color-border);
+}
+
+nav .logo {
+    margin-right: auto;
+}
+
+nav .logo img {
+    display: block;
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
+
+nav a {
+    color: var(--color-text);
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: var(--color-primary-hover);
+}
+
+main {
+    max-width: 900px;
+    margin: 3rem auto;
+    padding: 0 2rem;
+}
+
+a {
+    color: var(--color-link);
+}
+
+a:hover {
+    color: var(--color-primary-hover);
+}
+
+/*css variables*/
+:root {
+	/* Background color */
+	--color-background: #11100f;
+	--color-surface: #1d1916;
+	--color-card: #29221c;
+	/* Text */
+	--color-text: #e2d4b3;
+	--color-text-muted: #a99d87;
+	/* Accents */
+	--color-primary: #c89b3c;
+	--color-primary-hover: #e2bc62;
+	--color-secondary: #813b32;
+	/* Interactive and status colors */
+	--color-active: #a7523f;
+	--color-link: #6f9b9d;
+	--color-success: #71805a;
+	/* Borders */
+	--color-border: #685438;
+}

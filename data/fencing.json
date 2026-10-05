@@ -1,0 +1,5894 @@
+[
+    {
+        "rank": 1,
+        "name": "SANTUCCIO Alberta",
+        "country": "ITA",
+        "points": 200.0
+    },
+    {
+        "rank": 2,
+        "name": "MUHARI Eszter",
+        "country": "HUN",
+        "points": 200.0
+    },
+    {
+        "rank": 3,
+        "name": "SONG Sera",
+        "country": "KOR",
+        "points": 197.0
+    },
+    {
+        "rank": 4,
+        "name": "LEHIS Katrina",
+        "country": "EST",
+        "points": 190.0
+    },
+    {
+        "rank": 5,
+        "name": "RIZZI Giulia",
+        "country": "ITA",
+        "points": 168.0
+    },
+    {
+        "rank": 6,
+        "name": "HUSISIAN Hadley",
+        "country": "USA",
+        "points": 148.0
+    },
+    {
+        "rank": 7,
+        "name": "CANDASSAMY Marie-Florence",
+        "country": "FRA",
+        "points": 138.0
+    },
+    {
+        "rank": 8,
+        "name": "LOUIS MARIE Alexandra",
+        "country": "FRA",
+        "points": 122.0
+    },
+    {
+        "rank": 9,
+        "name": "MAKSYMENKO Anna",
+        "country": "UKR",
+        "points": 107.0
+    },
+    {
+        "rank": 10,
+        "name": "TANG Junyao",
+        "country": "CHN",
+        "points": 101.75
+    },
+    {
+        "rank": 11,
+        "name": "NDOLO Alexandra",
+        "country": "KEN",
+        "points": 96.0
+    },
+    {
+        "rank": 12,
+        "name": "MALLO-BRETON Auriane",
+        "country": "FRA",
+        "points": 88.0
+    },
+    {
+        "rank": 13,
+        "name": "HSIEH Kaylin Sin Yan",
+        "country": "HKG",
+        "points": 87.0
+    },
+    {
+        "rank": 14,
+        "name": "LIM Taehee",
+        "country": "KOR",
+        "points": 86.0
+    },
+    {
+        "rank": 15,
+        "name": "NIXON Catherine",
+        "country": "USA",
+        "points": 86.0
+    },
+    {
+        "rank": 16,
+        "name": "VAN BRUMMEN Anna",
+        "country": "USA",
+        "points": 74.0
+    },
+    {
+        "rank": 17,
+        "name": "TERAYAMA Tamaki",
+        "country": "JPN",
+        "points": 71.5
+    },
+    {
+        "rank": 18,
+        "name": "XIAO Ruien",
+        "country": "CAN",
+        "points": 71.0
+    },
+    {
+        "rank": 19,
+        "name": "VON KERSSENBROCK Diane",
+        "country": "FRA",
+        "points": 70.25
+    },
+    {
+        "rank": 20,
+        "name": "EHLER Alexandra",
+        "country": "GER",
+        "points": 67.5
+    },
+    {
+        "rank": 21,
+        "name": "BRYCH Barbara",
+        "country": "POL",
+        "points": 67.0
+    },
+    {
+        "rank": 22,
+        "name": "KLASIK Alicja",
+        "country": "POL",
+        "points": 63.5
+    },
+    {
+        "rank": 23,
+        "name": "YANG Jingwen",
+        "country": "CHN",
+        "points": 61.5
+    },
+    {
+        "rank": 24,
+        "name": "BAKALDINA Irina",
+        "country": "KAZ",
+        "points": 61.0
+    },
+    {
+        "rank": 25,
+        "name": "NAGY Blanka Virag",
+        "country": "HUN",
+        "points": 60.5
+    },
+    {
+        "rank": 26,
+        "name": "OXENREIDER Tierna",
+        "country": "USA",
+        "points": 60.0
+    },
+    {
+        "rank": 27,
+        "name": "LEE Hyein",
+        "country": "KOR",
+        "points": 58.5
+    },
+    {
+        "rank": 28,
+        "name": "FIAMINGO Rossella",
+        "country": "ITA",
+        "points": 57.0
+    },
+    {
+        "rank": 29,
+        "name": "LUTY Aliya",
+        "country": "FRA",
+        "points": 55.0
+    },
+    {
+        "rank": 30,
+        "name": "YU Sihan",
+        "country": "CHN",
+        "points": 50.0
+    },
+    {
+        "rank": 31,
+        "name": "CAFORIO Gaia",
+        "country": "ITA",
+        "points": 49.5
+    },
+    {
+        "rank": 32,
+        "name": "XUAN Nicole",
+        "country": "CAN",
+        "points": 48.25
+    },
+    {
+        "rank": 33,
+        "name": "TAHE Oceane",
+        "country": "CIV",
+        "points": 46.5
+    },
+    {
+        "rank": 34,
+        "name": "LIU Chang",
+        "country": "CHN",
+        "points": 45.0
+    },
+    {
+        "rank": 35,
+        "name": "BUKI Lili",
+        "country": "HUN",
+        "points": 44.5
+    },
+    {
+        "rank": 36,
+        "name": "BRUNNER Pauline",
+        "country": "SUI",
+        "points": 43.0
+    },
+    {
+        "rank": 37,
+        "name": "RUSTAMOVA Anastasiia",
+        "country": "RUS",
+        "points": 43.0
+    },
+    {
+        "rank": 38,
+        "name": "PROSINA Sofija",
+        "country": "LAT",
+        "points": 42.75
+    },
+    {
+        "rank": 39,
+        "name": "CONRAD Emily",
+        "country": "UKR",
+        "points": 42.0
+    },
+    {
+        "rank": 40,
+        "name": "NABETH Camille",
+        "country": "FRA",
+        "points": 42.0
+    },
+    {
+        "rank": 41,
+        "name": "JASZ-BORSODY Emma",
+        "country": "HUN",
+        "points": 41.0
+    },
+    {
+        "rank": 42,
+        "name": "SERSOT Jade",
+        "country": "FRA",
+        "points": 37.0
+    },
+    {
+        "rank": 43,
+        "name": "YASINSKAYA Kristina",
+        "country": "RUS",
+        "points": 37.0
+    },
+    {
+        "rank": 44,
+        "name": "BROVKO Inna",
+        "country": "UKR",
+        "points": 36.5
+    },
+    {
+        "rank": 45,
+        "name": "KISHIMOTO Rin",
+        "country": "JPN",
+        "points": 36.25
+    },
+    {
+        "rank": 46,
+        "name": "HESS SANCHO Gala",
+        "country": "GER",
+        "points": 34.875
+    },
+    {
+        "rank": 47,
+        "name": "FAVRE Aurore",
+        "country": "SUI",
+        "points": 34.0
+    },
+    {
+        "rank": 48,
+        "name": "EHAB Nardin",
+        "country": "EGY",
+        "points": 32.75
+    },
+    {
+        "rank": 49,
+        "name": "DI TELLA Isabel",
+        "country": "ARG",
+        "points": 32.75
+    },
+    {
+        "rank": 50,
+        "name": "HATZ Fiona",
+        "country": "SUI",
+        "points": 32.75
+    },
+    {
+        "rank": 51,
+        "name": "YIN Julia",
+        "country": "CAN",
+        "points": 32.0
+    },
+    {
+        "rank": 52,
+        "name": "YOSHIMURA Miho",
+        "country": "JPN",
+        "points": 31.75
+    },
+    {
+        "rank": 53,
+        "name": "MUELLER Fiona",
+        "country": "GER",
+        "points": 31.5
+    },
+    {
+        "rank": 54,
+        "name": "YANG Seunghye",
+        "country": "KOR",
+        "points": 31.5
+    },
+    {
+        "rank": 55,
+        "name": "SOLIMAN Loulwa",
+        "country": "EGY",
+        "points": 30.5
+    },
+    {
+        "rank": 56,
+        "name": "ASIS Lizzie",
+        "country": "VEN",
+        "points": 30.0
+    },
+    {
+        "rank": 57,
+        "name": "MARZANI Roberta",
+        "country": "ITA",
+        "points": 30.0
+    },
+    {
+        "rank": 58,
+        "name": "KOH Elle Meihui",
+        "country": "SGP",
+        "points": 29.5
+    },
+    {
+        "rank": 59,
+        "name": "LI Shanshan",
+        "country": "CHN",
+        "points": 29.25
+    },
+    {
+        "rank": 60,
+        "name": "PINYOL TOMAS Daniela",
+        "country": "ESP",
+        "points": 28.75
+    },
+    {
+        "rank": 61,
+        "name": "PAWLOWSKA Magdalena",
+        "country": "POL",
+        "points": 27.5
+    },
+    {
+        "rank": 62,
+        "name": "REMBI Lauren",
+        "country": "FRA",
+        "points": 27.0
+    },
+    {
+        "rank": 63,
+        "name": "KOWALCZYK Sara Maria",
+        "country": "ITA",
+        "points": 27.0
+    },
+    {
+        "rank": 64,
+        "name": "VANRYSSEL Eloise",
+        "country": "FRA",
+        "points": 27.0
+    },
+    {
+        "rank": 65,
+        "name": "BOUKHELIFA Charline",
+        "country": "ALG",
+        "points": 26.625
+    },
+    {
+        "rank": 66,
+        "name": "EMBRICH Irina",
+        "country": "EST",
+        "points": 26.0
+    },
+    {
+        "rank": 67,
+        "name": "TRADITI Gaia",
+        "country": "ITA",
+        "points": 25.5
+    },
+    {
+        "rank": 68,
+        "name": "FAVRE Angeline",
+        "country": "SUI",
+        "points": 25.0
+    },
+    {
+        "rank": 69,
+        "name": "BEKMURZOVA Iana",
+        "country": "RUS",
+        "points": 25.0
+    },
+    {
+        "rank": 70,
+        "name": "BELJAJEVA Julia",
+        "country": "EST",
+        "points": 24.5
+    },
+    {
+        "rank": 71,
+        "name": "DMYTRUK Alina",
+        "country": "UKR",
+        "points": 24.5
+    },
+    {
+        "rank": 72,
+        "name": "ZGRYZNIAK Kinga",
+        "country": "POL",
+        "points": 24.5
+    },
+    {
+        "rank": 73,
+        "name": "FRANSSON Emma",
+        "country": "SWE",
+        "points": 24.0
+    },
+    {
+        "rank": 74,
+        "name": "CHU Ka Mong",
+        "country": "HKG",
+        "points": 23.875
+    },
+    {
+        "rank": 75,
+        "name": "TEJEDA Frania",
+        "country": "MEX",
+        "points": 23.5
+    },
+    {
+        "rank": 76,
+        "name": "ERTURK Aleyna",
+        "country": "TUR",
+        "points": 23.375
+    },
+    {
+        "rank": 77,
+        "name": "BAVUGE KHABIMANA Milen",
+        "country": "RUS",
+        "points": 23.0
+    },
+    {
+        "rank": 78,
+        "name": "BOZZA Alessandra",
+        "country": "ITA",
+        "points": 23.0
+    },
+    {
+        "rank": 79,
+        "name": "EL KORD Camilia",
+        "country": "MAR",
+        "points": 22.5
+    },
+    {
+        "rank": 80,
+        "name": "MURZATAEVA Dilnaz",
+        "country": "UZB",
+        "points": 21.75
+    },
+    {
+        "rank": 81,
+        "name": "VANDINGENEN Aube",
+        "country": "BEL",
+        "points": 21.625
+    },
+    {
+        "rank": 82,
+        "name": "BOUAOUINA LARBI Rayhana",
+        "country": "ALG",
+        "points": 21.625
+    },
+    {
+        "rank": 83,
+        "name": "MAHFOUZ Farah",
+        "country": "EGY",
+        "points": 21.0
+    },
+    {
+        "rank": 84,
+        "name": "SONT Emma",
+        "country": "ROU",
+        "points": 21.0
+    },
+    {
+        "rank": 85,
+        "name": "SHEMYAKINA Yana",
+        "country": "UKR",
+        "points": 20.5
+    },
+    {
+        "rank": 86,
+        "name": "NIKOLAICHUK Sofiya",
+        "country": "KAZ",
+        "points": 20.5
+    },
+    {
+        "rank": 87,
+        "name": "EGAMBERDIEVA Shakhzoda",
+        "country": "UZB",
+        "points": 20.5
+    },
+    {
+        "rank": 88,
+        "name": "KRYVYTSKA Olena",
+        "country": "UKR",
+        "points": 20.5
+    },
+    {
+        "rank": 89,
+        "name": "VERRET Alexanne",
+        "country": "CAN",
+        "points": 20.5
+    },
+    {
+        "rank": 90,
+        "name": "VIVEROS Montserrat",
+        "country": "PAR",
+        "points": 20.0
+    },
+    {
+        "rank": 91,
+        "name": "ZITTEL Alexandra",
+        "country": "GER",
+        "points": 19.75
+    },
+    {
+        "rank": 92,
+        "name": "KHAKIMOVA Malika",
+        "country": "UZB",
+        "points": 19.5
+    },
+    {
+        "rank": 93,
+        "name": "BOTVINNIK Yana",
+        "country": "ISR",
+        "points": 19.25
+    },
+    {
+        "rank": 94,
+        "name": "ISOLA Federica",
+        "country": "ITA",
+        "points": 18.5
+    },
+    {
+        "rank": 95,
+        "name": "CHAN Wai Ling",
+        "country": "HKG",
+        "points": 18.5
+    },
+    {
+        "rank": 96,
+        "name": "HUNG Li-Hsiang",
+        "country": "TPE",
+        "points": 18.25
+    },
+    {
+        "rank": 97,
+        "name": "KRIEGER Angela",
+        "country": "SUI",
+        "points": 18.0
+    },
+    {
+        "rank": 98,
+        "name": "MACHULSKY Leehi",
+        "country": "USA",
+        "points": 18.0
+    },
+    {
+        "rank": 99,
+        "name": "ELMER Luise",
+        "country": "AUT",
+        "points": 17.0
+    },
+    {
+        "rank": 100,
+        "name": "ABDUL RAHMAN Kiria Tikanah",
+        "country": "SGP",
+        "points": 16.875
+    },
+    {
+        "rank": 101,
+        "name": "WU Haidi",
+        "country": "HKG",
+        "points": 16.5
+    },
+    {
+        "rank": 102,
+        "name": "DEKANY Kinga",
+        "country": "HUN",
+        "points": 16.375
+    },
+    {
+        "rank": 103,
+        "name": "NO Sungyoun",
+        "country": "JPN",
+        "points": 16.375
+    },
+    {
+        "rank": 104,
+        "name": "MARTENSSON Elvira",
+        "country": "SWE",
+        "points": 16.0
+    },
+    {
+        "rank": 105,
+        "name": "MURTAZAEVA Aizanat",
+        "country": "RUS",
+        "points": 16.0
+    },
+    {
+        "rank": 106,
+        "name": "DOIG CALDERON Maria Luisa",
+        "country": "PER",
+        "points": 16.0
+    },
+    {
+        "rank": 107,
+        "name": "KHATRI Taniksha",
+        "country": "IND",
+        "points": 16.0
+    },
+    {
+        "rank": 108,
+        "name": "KARDOS Edina",
+        "country": "HUN",
+        "points": 15.75
+    },
+    {
+        "rank": 109,
+        "name": "RAKHIMOVA Sevara",
+        "country": "UZB",
+        "points": 15.25
+    },
+    {
+        "rank": 110,
+        "name": "CHOI Injeong",
+        "country": "KOR",
+        "points": 15.0
+    },
+    {
+        "rank": 111,
+        "name": "HECHT Dar",
+        "country": "ISR",
+        "points": 15.0
+    },
+    {
+        "rank": 112,
+        "name": "RAPOSO Dana",
+        "country": "ESP",
+        "points": 14.75
+    },
+    {
+        "rank": 113,
+        "name": "KLUGHARDT Gloria",
+        "country": "POL",
+        "points": 14.75
+    },
+    {
+        "rank": 114,
+        "name": "CHEVAUX Lena",
+        "country": "AUT",
+        "points": 14.5
+    },
+    {
+        "rank": 115,
+        "name": "FERNANDEZ Analia",
+        "country": "CHI",
+        "points": 14.5
+    },
+    {
+        "rank": 116,
+        "name": "HUSSEIN Aya",
+        "country": "EGY",
+        "points": 14.25
+    },
+    {
+        "rank": 117,
+        "name": "RAMIREZ PEGUERO Violeta",
+        "country": "DOM",
+        "points": 14.125
+    },
+    {
+        "rank": 118,
+        "name": "LIPTHAY Hanna",
+        "country": "HUN",
+        "points": 14.0
+    },
+    {
+        "rank": 119,
+        "name": "GNAM Tamara",
+        "country": "HUN",
+        "points": 14.0
+    },
+    {
+        "rank": 120,
+        "name": "PAULIS Lucrezia",
+        "country": "ITA",
+        "points": 14.0
+    },
+    {
+        "rank": 121,
+        "name": "OLSSON Liv",
+        "country": "SWE",
+        "points": 13.875
+    },
+    {
+        "rank": 122,
+        "name": "VIZEU Victoria",
+        "country": "BRA",
+        "points": 13.75
+    },
+    {
+        "rank": 123,
+        "name": "CORREIA Laura",
+        "country": "BRA",
+        "points": 13.5
+    },
+    {
+        "rank": 124,
+        "name": "ULLTJARN Louise",
+        "country": "SWE",
+        "points": 13.25
+    },
+    {
+        "rank": 125,
+        "name": "AICARDI GONZALEZ Alessandra Valeri",
+        "country": "PAN",
+        "points": 13.25
+    },
+    {
+        "rank": 126,
+        "name": "LOHAN Prachi",
+        "country": "IND",
+        "points": 13.0
+    },
+    {
+        "rank": 127,
+        "name": "MACCAGNO Carola",
+        "country": "ITA",
+        "points": 13.0
+    },
+    {
+        "rank": 128,
+        "name": "GUIMARAES Maria Carolina",
+        "country": "BRA",
+        "points": 12.75
+    },
+    {
+        "rank": 129,
+        "name": "BIELESZOVA Veronika",
+        "country": "CZE",
+        "points": 12.5
+    },
+    {
+        "rank": 130,
+        "name": "GOMEZ LOPEZ Silvia",
+        "country": "ESP",
+        "points": 12.25
+    },
+    {
+        "rank": 131,
+        "name": "HORVATH Lotti",
+        "country": "HUN",
+        "points": 12.0
+    },
+    {
+        "rank": 132,
+        "name": "ROGER Maenel",
+        "country": "MAR",
+        "points": 12.0
+    },
+    {
+        "rank": 133,
+        "name": "YANTOLO Phumza",
+        "country": "RSA",
+        "points": 12.0
+    },
+    {
+        "rank": 134,
+        "name": "IDONGESIT Sara",
+        "country": "NGR",
+        "points": 12.0
+    },
+    {
+        "rank": 135,
+        "name": "LANCASTER Alexandra",
+        "country": "RSA",
+        "points": 12.0
+    },
+    {
+        "rank": 136,
+        "name": "DOUCI-HABANE Soha",
+        "country": "MAR",
+        "points": 12.0
+    },
+    {
+        "rank": 137,
+        "name": "ZEBBOUDJ Yousra",
+        "country": "ALG",
+        "points": 12.0
+    },
+    {
+        "rank": 138,
+        "name": "MENDEZ BELLO Josefina Maria",
+        "country": "ARG",
+        "points": 12.0
+    },
+    {
+        "rank": 139,
+        "name": "YANTOLO Phakama",
+        "country": "RSA",
+        "points": 12.0
+    },
+    {
+        "rank": 140,
+        "name": "CORREA SANTA Carmen Andrea",
+        "country": "COL",
+        "points": 12.0
+    },
+    {
+        "rank": 141,
+        "name": "MURIDOVA Tamila",
+        "country": "GEO",
+        "points": 11.75
+    },
+    {
+        "rank": 142,
+        "name": "ANDREYEVA Vladislava",
+        "country": "KAZ",
+        "points": 11.625
+    },
+    {
+        "rank": 143,
+        "name": "FALLON Kyle",
+        "country": "USA",
+        "points": 11.5
+    },
+    {
+        "rank": 144,
+        "name": "PARK Sohyeong",
+        "country": "KOR",
+        "points": 11.5
+    },
+    {
+        "rank": 145,
+        "name": "GARCIA RODRIGUEZ Ines",
+        "country": "ESP",
+        "points": 11.25
+    },
+    {
+        "rank": 146,
+        "name": "ALVIM Maria",
+        "country": "POR",
+        "points": 11.25
+    },
+    {
+        "rank": 147,
+        "name": "LEHTONEN Suvi",
+        "country": "FIN",
+        "points": 11.125
+    },
+    {
+        "rank": 148,
+        "name": "GOLDMANN Lara",
+        "country": "GER",
+        "points": 11.0
+    },
+    {
+        "rank": 149,
+        "name": "ZHENG Evelyn",
+        "country": "CAN",
+        "points": 11.0
+    },
+    {
+        "rank": 150,
+        "name": "DYNER Karina",
+        "country": "CRC",
+        "points": 11.0
+    },
+    {
+        "rank": 151,
+        "name": "FRANCILLONNE Oceane",
+        "country": "FRA",
+        "points": 11.0
+    },
+    {
+        "rank": 152,
+        "name": "LAWSON Danielle",
+        "country": "GBR",
+        "points": 10.5
+    },
+    {
+        "rank": 153,
+        "name": "POSADA Betyumil",
+        "country": "VEN",
+        "points": 10.5
+    },
+    {
+        "rank": 154,
+        "name": "SHI Yuexin",
+        "country": "CHN",
+        "points": 10.25
+    },
+    {
+        "rank": 155,
+        "name": "FEYGIN Nicole",
+        "country": "ISR",
+        "points": 10.25
+    },
+    {
+        "rank": 156,
+        "name": "LUGO Eliana",
+        "country": "VEN",
+        "points": 10.125
+    },
+    {
+        "rank": 157,
+        "name": "BURKHARD Isabelle",
+        "country": "SUI",
+        "points": 10.0
+    },
+    {
+        "rank": 158,
+        "name": "LIU Charlene Kai Yan",
+        "country": "USA",
+        "points": 9.875
+    },
+    {
+        "rank": 159,
+        "name": "THEODOROPOULOU Andriana",
+        "country": "GRE",
+        "points": 9.875
+    },
+    {
+        "rank": 160,
+        "name": "ERIKSSON Linnea",
+        "country": "SWE",
+        "points": 9.75
+    },
+    {
+        "rank": 161,
+        "name": "KORFONTA Jolie",
+        "country": "USA",
+        "points": 9.5
+    },
+    {
+        "rank": 162,
+        "name": "GILARSKI Genevieve",
+        "country": "AUS",
+        "points": 9.5
+    },
+    {
+        "rank": 163,
+        "name": "TAN Esther",
+        "country": "SGP",
+        "points": 9.25
+    },
+    {
+        "rank": 164,
+        "name": "KHARKOVA Vlada",
+        "country": "UKR",
+        "points": 9.0
+    },
+    {
+        "rank": 165,
+        "name": "CARON Julia",
+        "country": "FRA",
+        "points": 9.0
+    },
+    {
+        "rank": 166,
+        "name": "KETKAR Ketki",
+        "country": "USA",
+        "points": 8.75
+    },
+    {
+        "rank": 167,
+        "name": "EMERY Solene",
+        "country": "SUI",
+        "points": 8.75
+    },
+    {
+        "rank": 168,
+        "name": "SICA Susan Maria",
+        "country": "GBR",
+        "points": 8.75
+    },
+    {
+        "rank": 169,
+        "name": "CIESLIK Cecylia",
+        "country": "POL",
+        "points": 8.75
+    },
+    {
+        "rank": 170,
+        "name": "ZUIKOVA Veronika",
+        "country": "EST",
+        "points": 8.75
+    },
+    {
+        "rank": 171,
+        "name": "PARK Jinjoo",
+        "country": "KOR",
+        "points": 8.5
+    },
+    {
+        "rank": 172,
+        "name": "MO Wanlin",
+        "country": "CHN",
+        "points": 8.25
+    },
+    {
+        "rank": 173,
+        "name": "SAMODELKINA Daria",
+        "country": "KAZ",
+        "points": 8.25
+    },
+    {
+        "rank": 174,
+        "name": "SUZUKI Honami",
+        "country": "JPN",
+        "points": 8.25
+    },
+    {
+        "rank": 175,
+        "name": "CAGNIN Beatrice",
+        "country": "ITA",
+        "points": 8.0
+    },
+    {
+        "rank": 176,
+        "name": "VASQUEZ Paula",
+        "country": "CHI",
+        "points": 8.0
+    },
+    {
+        "rank": 177,
+        "name": "JANELLI Zofia",
+        "country": "POL",
+        "points": 7.75
+    },
+    {
+        "rank": 178,
+        "name": "ROZSAS Julia",
+        "country": "HUN",
+        "points": 7.75
+    },
+    {
+        "rank": 179,
+        "name": "MROSZCZAK Anna",
+        "country": "POL",
+        "points": 7.75
+    },
+    {
+        "rank": 180,
+        "name": "PREDESCU Alexandra",
+        "country": "ROU",
+        "points": 7.625
+    },
+    {
+        "rank": 181,
+        "name": "SALAZAR ALDANA Susana",
+        "country": "COL",
+        "points": 7.5
+    },
+    {
+        "rank": 182,
+        "name": "REESINCK Sophie",
+        "country": "NED",
+        "points": 7.25
+    },
+    {
+        "rank": 183,
+        "name": "MIN Ji Won",
+        "country": "KOR",
+        "points": 7.25
+    },
+    {
+        "rank": 184,
+        "name": "LIN Yik Hei Coco",
+        "country": "HKG",
+        "points": 7.25
+    },
+    {
+        "rank": 185,
+        "name": "PARMESANI Francesca",
+        "country": "SLO",
+        "points": 7.0
+    },
+    {
+        "rank": 186,
+        "name": "FARIAS Clarismar",
+        "country": "VEN",
+        "points": 6.75
+    },
+    {
+        "rank": 187,
+        "name": "BULTYNCK Anne",
+        "country": "BEL",
+        "points": 6.75
+    },
+    {
+        "rank": 188,
+        "name": "WU Mia",
+        "country": "TPE",
+        "points": 6.625
+    },
+    {
+        "rank": 189,
+        "name": "BENEA Bianca",
+        "country": "ROU",
+        "points": 6.5
+    },
+    {
+        "rank": 190,
+        "name": "KHAERTDINOVA Polina",
+        "country": "RUS",
+        "points": 6.5
+    },
+    {
+        "rank": 191,
+        "name": "CIFUENTES Ignacia",
+        "country": "CHI",
+        "points": 6.25
+    },
+    {
+        "rank": 192,
+        "name": "FRINDT Marianne",
+        "country": "CHI",
+        "points": 6.25
+    },
+    {
+        "rank": 193,
+        "name": "ROMEO Virginia",
+        "country": "SUI",
+        "points": 6.25
+    },
+    {
+        "rank": 194,
+        "name": "BABA Haruna",
+        "country": "JPN",
+        "points": 6.25
+    },
+    {
+        "rank": 195,
+        "name": "BEZHURA Dzhoan Feybi",
+        "country": "UKR",
+        "points": 6.0
+    },
+    {
+        "rank": 196,
+        "name": "MC CABE Sacha",
+        "country": "RSA",
+        "points": 6.0
+    },
+    {
+        "rank": 197,
+        "name": "TALEB Ines El Batoul",
+        "country": "ALG",
+        "points": 6.0
+    },
+    {
+        "rank": 198,
+        "name": "ELLIS Marwa",
+        "country": "MAR",
+        "points": 6.0
+    },
+    {
+        "rank": 199,
+        "name": "SABALY Aminata",
+        "country": "SEN",
+        "points": 6.0
+    },
+    {
+        "rank": 200,
+        "name": "GNINGUE Diarrietou Lahi",
+        "country": "SEN",
+        "points": 6.0
+    },
+    {
+        "rank": 201,
+        "name": "MODISE Aobakwe",
+        "country": "BOT",
+        "points": 6.0
+    },
+    {
+        "rank": 202,
+        "name": "UWIHOREYE Tufaha",
+        "country": "RWA",
+        "points": 6.0
+    },
+    {
+        "rank": 202,
+        "name": "LINARES Helena",
+        "country": "HON",
+        "points": 6.0
+    },
+    {
+        "rank": 204,
+        "name": "PEPOUERE NAOMI MONICA",
+        "country": "CIV",
+        "points": 6.0
+    },
+    {
+        "rank": 205,
+        "name": "SULEN BURGOS Priscila Genoveva",
+        "country": "ECU",
+        "points": 6.0
+    },
+    {
+        "rank": 206,
+        "name": "BUNGSY Dosha",
+        "country": "MRI",
+        "points": 6.0
+    },
+    {
+        "rank": 207,
+        "name": "THOMAS Adebodunirin",
+        "country": "NGR",
+        "points": 6.0
+    },
+    {
+        "rank": 208,
+        "name": "PAREDES Ana Margarita",
+        "country": "MEX",
+        "points": 6.0
+    },
+    {
+        "rank": 209,
+        "name": "MASSALY Oumoul Khairy",
+        "country": "SEN",
+        "points": 6.0
+    },
+    {
+        "rank": 210,
+        "name": "TSURSKAYA Aliaksandra",
+        "country": "BLR",
+        "points": 6.0
+    },
+    {
+        "rank": 211,
+        "name": "KIM Nakyeong",
+        "country": "KOR",
+        "points": 6.0
+    },
+    {
+        "rank": 212,
+        "name": "GOH Bee Hooi",
+        "country": "MAS",
+        "points": 6.0
+    },
+    {
+        "rank": 213,
+        "name": "YANEZ Maria Paz",
+        "country": "PER",
+        "points": 6.0
+    },
+    {
+        "rank": 214,
+        "name": "XU Nuo",
+        "country": "CHN",
+        "points": 6.0
+    },
+    {
+        "rank": 215,
+        "name": "GUZZI VINCENTI Margherita",
+        "country": "USA",
+        "points": 6.0
+    },
+    {
+        "rank": 216,
+        "name": "LEE Regina",
+        "country": "USA",
+        "points": 6.0
+    },
+    {
+        "rank": 217,
+        "name": "SAITO Hana",
+        "country": "JPN",
+        "points": 5.875
+    },
+    {
+        "rank": 218,
+        "name": "CONSTANTIN Natalia",
+        "country": "ROU",
+        "points": 5.75
+    },
+    {
+        "rank": 219,
+        "name": "GZYUNOVA Anna",
+        "country": "RUS",
+        "points": 5.75
+    },
+    {
+        "rank": 220,
+        "name": "NARITA Ruka",
+        "country": "JPN",
+        "points": 5.625
+    },
+    {
+        "rank": 221,
+        "name": "JAAKKOLA Outi",
+        "country": "FIN",
+        "points": 5.5
+    },
+    {
+        "rank": 222,
+        "name": "KOROTETSKA Kateryna",
+        "country": "UKR",
+        "points": 5.375
+    },
+    {
+        "rank": 223,
+        "name": "REDLICH Fenja Apsarah",
+        "country": "DEN",
+        "points": 5.25
+    },
+    {
+        "rank": 224,
+        "name": "LARSEN Sarah Schremmer",
+        "country": "DEN",
+        "points": 5.25
+    },
+    {
+        "rank": 225,
+        "name": "PIRKOWSKI Amanda",
+        "country": "USA",
+        "points": 5.125
+    },
+    {
+        "rank": 226,
+        "name": "CLERICI Alice",
+        "country": "ITA",
+        "points": 5.0
+    },
+    {
+        "rank": 227,
+        "name": "LOZANO Candela",
+        "country": "ESP",
+        "points": 5.0
+    },
+    {
+        "rank": 228,
+        "name": "SEREDA Mariia",
+        "country": "UKR",
+        "points": 5.0
+    },
+    {
+        "rank": 229,
+        "name": "SAYAGUES PARIS Isabella",
+        "country": "CRC",
+        "points": 5.0
+    },
+    {
+        "rank": 230,
+        "name": "YANG Lei",
+        "country": "CHN",
+        "points": 4.875
+    },
+    {
+        "rank": 231,
+        "name": "DOQUET Anaelle",
+        "country": "FRA",
+        "points": 4.75
+    },
+    {
+        "rank": 232,
+        "name": "PRAXMARER Leonore",
+        "country": "AUT",
+        "points": 4.75
+    },
+    {
+        "rank": 233,
+        "name": "JORGENSEN Laeticia",
+        "country": "DEN",
+        "points": 4.75
+    },
+    {
+        "rank": 234,
+        "name": "MARTINEZ Maria",
+        "country": "VEN",
+        "points": 4.75
+    },
+    {
+        "rank": 235,
+        "name": "PASHARNEVA Katsiaryna",
+        "country": "BLR",
+        "points": 4.75
+    },
+    {
+        "rank": 236,
+        "name": "FOIETTA Nicol",
+        "country": "ITA",
+        "points": 4.75
+    },
+    {
+        "rank": 237,
+        "name": "HUBER Pia",
+        "country": "AUT",
+        "points": 4.625
+    },
+    {
+        "rank": 238,
+        "name": "CHATZISARANTOU Nikoletta",
+        "country": "GRE",
+        "points": 4.625
+    },
+    {
+        "rank": 239,
+        "name": "TERCJAK Oliwia",
+        "country": "POL",
+        "points": 4.5
+    },
+    {
+        "rank": 240,
+        "name": "CONRAD Alice",
+        "country": "FRA",
+        "points": 4.5
+    },
+    {
+        "rank": 241,
+        "name": "TEJEDA Sheila Liliana",
+        "country": "MEX",
+        "points": 4.5
+    },
+    {
+        "rank": 242,
+        "name": "AYTEKIN Cagla",
+        "country": "GER",
+        "points": 4.25
+    },
+    {
+        "rank": 243,
+        "name": "OCEGUEDA VELASCO Barbara Columba",
+        "country": "MEX",
+        "points": 4.25
+    },
+    {
+        "rank": 244,
+        "name": "GOMEZ Juliana Ma. Beatrice",
+        "country": "PHI",
+        "points": 4.25
+    },
+    {
+        "rank": 245,
+        "name": "TSENG Hsiu-Hui",
+        "country": "TPE",
+        "points": 4.25
+    },
+    {
+        "rank": 246,
+        "name": "SANGNGIO Natpapat",
+        "country": "THA",
+        "points": 4.25
+    },
+    {
+        "rank": 247,
+        "name": "JARAMILLO QUEVEDO Maria De Los Angeles",
+        "country": "COL",
+        "points": 4.25
+    },
+    {
+        "rank": 248,
+        "name": "CHIN Isabella",
+        "country": "USA",
+        "points": 4.25
+    },
+    {
+        "rank": 249,
+        "name": "PEAT Sophie",
+        "country": "GBR",
+        "points": 4.125
+    },
+    {
+        "rank": 250,
+        "name": "MASALO Olivija",
+        "country": "LTU",
+        "points": 4.125
+    },
+    {
+        "rank": 251,
+        "name": "DOUBOVA Dominika",
+        "country": "CZE",
+        "points": 4.125
+    },
+    {
+        "rank": 252,
+        "name": "GRABOVSKYTE Lurde",
+        "country": "LTU",
+        "points": 4.0
+    },
+    {
+        "rank": 253,
+        "name": "JELINEVITS Anastassia",
+        "country": "EST",
+        "points": 4.0
+    },
+    {
+        "rank": 254,
+        "name": "PAULIS Giulia",
+        "country": "ITA",
+        "points": 4.0
+    },
+    {
+        "rank": 255,
+        "name": "GONZALEZ RODRIGUEZ Isabella",
+        "country": "COL",
+        "points": 4.0
+    },
+    {
+        "rank": 256,
+        "name": "VUORINEN Anna",
+        "country": "FIN",
+        "points": 4.0
+    },
+    {
+        "rank": 257,
+        "name": "TARASOVA Ekaterina",
+        "country": "RUS",
+        "points": 4.0
+    },
+    {
+        "rank": 258,
+        "name": "GUERRERO HIDALGO Victoria",
+        "country": "VEN",
+        "points": 3.875
+    },
+    {
+        "rank": 259,
+        "name": "HARRISON Ashley Mae Michelle",
+        "country": "AUS",
+        "points": 3.875
+    },
+    {
+        "rank": 260,
+        "name": "SALAMON Reka",
+        "country": "HUN",
+        "points": 3.875
+    },
+    {
+        "rank": 261,
+        "name": "POWELL Alexandra",
+        "country": "GBR",
+        "points": 3.75
+    },
+    {
+        "rank": 262,
+        "name": "YEE Amelie",
+        "country": "AUS",
+        "points": 3.75
+    },
+    {
+        "rank": 263,
+        "name": "GRIJAK Jana",
+        "country": "SRB",
+        "points": 3.625
+    },
+    {
+        "rank": 264,
+        "name": "DINOY Ivy Claire",
+        "country": "PHI",
+        "points": 3.625
+    },
+    {
+        "rank": 265,
+        "name": "ABELLA Hanniel",
+        "country": "PHI",
+        "points": 3.625
+    },
+    {
+        "rank": 266,
+        "name": "HAYER Yashkeerat Kaur",
+        "country": "IND",
+        "points": 3.625
+    },
+    {
+        "rank": 267,
+        "name": "THIANKUL Mooktapa",
+        "country": "THA",
+        "points": 3.625
+    },
+    {
+        "rank": 268,
+        "name": "SIZOO Isaura",
+        "country": "NED",
+        "points": 3.5
+    },
+    {
+        "rank": 269,
+        "name": "CHAUDHARI MITVA JESANGBHAI",
+        "country": "IND",
+        "points": 3.5
+    },
+    {
+        "rank": 270,
+        "name": "MBIIM Solene",
+        "country": "FRA",
+        "points": 3.5
+    },
+    {
+        "rank": 271,
+        "name": "WETZKER Laura Katalin",
+        "country": "GER",
+        "points": 3.5
+    },
+    {
+        "rank": 272,
+        "name": "LAUVRAY Emma",
+        "country": "FRA",
+        "points": 3.375
+    },
+    {
+        "rank": 273,
+        "name": "GACHALYI Greta",
+        "country": "HUN",
+        "points": 3.375
+    },
+    {
+        "rank": 274,
+        "name": "NAGAI Anna",
+        "country": "JPN",
+        "points": 3.375
+    },
+    {
+        "rank": 275,
+        "name": "STANCIULESCU Daria",
+        "country": "ROU",
+        "points": 3.25
+    },
+    {
+        "rank": 276,
+        "name": "TOBY Natalia",
+        "country": "USA",
+        "points": 3.25
+    },
+    {
+        "rank": 277,
+        "name": "LABRO Emma",
+        "country": "BEL",
+        "points": 3.0
+    },
+    {
+        "rank": 278,
+        "name": "LOUE Charlotte",
+        "country": "FRA",
+        "points": 3.0
+    },
+    {
+        "rank": 279,
+        "name": "HERMAY Camille",
+        "country": "FRA",
+        "points": 3.0
+    },
+    {
+        "rank": 280,
+        "name": "ROMANOVA Oleksandra",
+        "country": "UKR",
+        "points": 3.0
+    },
+    {
+        "rank": 281,
+        "name": "KUN Anna",
+        "country": "HUN",
+        "points": 3.0
+    },
+    {
+        "rank": 282,
+        "name": "SPYRYDONOVA Polina",
+        "country": "UKR",
+        "points": 3.0
+    },
+    {
+        "rank": 283,
+        "name": "MOLINA CERON Krissya Marlieth",
+        "country": "ESA",
+        "points": 3.0
+    },
+    {
+        "rank": 284,
+        "name": "TRAN Thi Thuy Trinh",
+        "country": "VIE",
+        "points": 3.0
+    },
+    {
+        "rank": 285,
+        "name": "CHANG Caitlin",
+        "country": "JAM",
+        "points": 3.0
+    },
+    {
+        "rank": 286,
+        "name": "JURADO SALAZAR Daniela",
+        "country": "CRC",
+        "points": 3.0
+    },
+    {
+        "rank": 287,
+        "name": "PANTELYEYEVA Kseniya",
+        "country": "UKR",
+        "points": 3.0
+    },
+    {
+        "rank": 288,
+        "name": "MUESES Elsa",
+        "country": "DOM",
+        "points": 3.0
+    },
+    {
+        "rank": 289,
+        "name": "BATSAIKHAN Amarzaya",
+        "country": "MGL",
+        "points": 3.0
+    },
+    {
+        "rank": 290,
+        "name": "NAHAPETYAN Datev",
+        "country": "ARG",
+        "points": 3.0
+    },
+    {
+        "rank": 291,
+        "name": "WANDMACHER Angela Yailen",
+        "country": "DOM",
+        "points": 3.0
+    },
+    {
+        "rank": 292,
+        "name": "PUENGKUNTOD Pornchita",
+        "country": "THA",
+        "points": 3.0
+    },
+    {
+        "rank": 293,
+        "name": "EGLEZ Victoria",
+        "country": "ARG",
+        "points": 3.0
+    },
+    {
+        "rank": 294,
+        "name": "NAVARRO VASQUEZ María",
+        "country": "PAN",
+        "points": 3.0
+    },
+    {
+        "rank": 295,
+        "name": "RICE Imogen",
+        "country": "AUS",
+        "points": 3.0
+    },
+    {
+        "rank": 296,
+        "name": "WILLIAMS Claudine",
+        "country": "JAM",
+        "points": 3.0
+    },
+    {
+        "rank": 297,
+        "name": "MARTINELLI LEZCANO Valeria",
+        "country": "PAN",
+        "points": 3.0
+    },
+    {
+        "rank": 297,
+        "name": "ARAZOVA Nabat",
+        "country": "TKM",
+        "points": 3.0
+    },
+    {
+        "rank": 299,
+        "name": "CEDREZ NOBLE Ariana Belen",
+        "country": "URU",
+        "points": 3.0
+    },
+    {
+        "rank": 300,
+        "name": "REZAEI TADI Reihaneh",
+        "country": "IRI",
+        "points": 3.0
+    },
+    {
+        "rank": 301,
+        "name": "BENEDITO Maria Ailed",
+        "country": "PAN",
+        "points": 3.0
+    },
+    {
+        "rank": 302,
+        "name": "NGUYEN Thanh Van",
+        "country": "VIE",
+        "points": 3.0
+    },
+    {
+        "rank": 303,
+        "name": "LARRAZABAL Alexa",
+        "country": "PHI",
+        "points": 3.0
+    },
+    {
+        "rank": 304,
+        "name": "KLAIDUANG Chanyanuch",
+        "country": "THA",
+        "points": 3.0
+    },
+    {
+        "rank": 305,
+        "name": "MOIDUNOVA NADIIA",
+        "country": "KGZ",
+        "points": 3.0
+    },
+    {
+        "rank": 306,
+        "name": "ALREFAE Fawzia",
+        "country": "KUW",
+        "points": 3.0
+    },
+    {
+        "rank": 307,
+        "name": "BAJORUNAITE-STAUSKE Paulina",
+        "country": "LTU",
+        "points": 3.0
+    },
+    {
+        "rank": 308,
+        "name": "NISHIOKA Hitomi",
+        "country": "JPN",
+        "points": 2.75
+    },
+    {
+        "rank": 309,
+        "name": "LIANG Xinyi",
+        "country": "CHN",
+        "points": 2.75
+    },
+    {
+        "rank": 310,
+        "name": "FARLAM Reya",
+        "country": "GBR",
+        "points": 2.75
+    },
+    {
+        "rank": 311,
+        "name": "LEE Sinhee",
+        "country": "KOR",
+        "points": 2.75
+    },
+    {
+        "rank": 312,
+        "name": "IZZO Iulia",
+        "country": "SUI",
+        "points": 2.625
+    },
+    {
+        "rank": 313,
+        "name": "VERGNES Anna",
+        "country": "LTU",
+        "points": 2.5
+    },
+    {
+        "rank": 314,
+        "name": "TOWNSEND Katherine",
+        "country": "GBR",
+        "points": 2.5
+    },
+    {
+        "rank": 315,
+        "name": "NESBITT Hannah",
+        "country": "GBR",
+        "points": 2.5
+    },
+    {
+        "rank": 316,
+        "name": "ORLOVA Anna Marija",
+        "country": "LAT",
+        "points": 2.5
+    },
+    {
+        "rank": 317,
+        "name": "TORREGO Martina",
+        "country": "ESP",
+        "points": 2.5
+    },
+    {
+        "rank": 318,
+        "name": "KIM Hyangeun",
+        "country": "KOR",
+        "points": 2.5
+    },
+    {
+        "rank": 319,
+        "name": "MULLEN Alisha",
+        "country": "IRL",
+        "points": 2.375
+    },
+    {
+        "rank": 320,
+        "name": "ILIUSHCHENKO Anastasiia",
+        "country": "RUS",
+        "points": 2.375
+    },
+    {
+        "rank": 321,
+        "name": "ANTWI Anna",
+        "country": "CZE",
+        "points": 2.375
+    },
+    {
+        "rank": 322,
+        "name": "MATEOS Maria",
+        "country": "ESP",
+        "points": 2.25
+    },
+    {
+        "rank": 323,
+        "name": "KRAVETS Alexandra",
+        "country": "ISR",
+        "points": 2.25
+    },
+    {
+        "rank": 324,
+        "name": "YIZHAKI Yuval",
+        "country": "ISR",
+        "points": 2.25
+    },
+    {
+        "rank": 325,
+        "name": "COUFALOVA Natalie",
+        "country": "CZE",
+        "points": 2.25
+    },
+    {
+        "rank": 326,
+        "name": "CAFASSO Natalya",
+        "country": "USA",
+        "points": 2.25
+    },
+    {
+        "rank": 327,
+        "name": "HILLIER Harriet",
+        "country": "GBR",
+        "points": 2.125
+    },
+    {
+        "rank": 328,
+        "name": "LIN Jessica",
+        "country": "USA",
+        "points": 2.125
+    },
+    {
+        "rank": 329,
+        "name": "LOEHR Lisa-Marie",
+        "country": "GER",
+        "points": 2.125
+    },
+    {
+        "rank": 330,
+        "name": "FERRACUTI Elena",
+        "country": "GRE",
+        "points": 2.0
+    },
+    {
+        "rank": 331,
+        "name": "SUGINT? Vikte",
+        "country": "LTU",
+        "points": 2.0
+    },
+    {
+        "rank": 332,
+        "name": "CASALE Maria Roberta Agata",
+        "country": "ITA",
+        "points": 2.0
+    },
+    {
+        "rank": 333,
+        "name": "BERNIGAUD Emilie",
+        "country": "FRA",
+        "points": 2.0
+    },
+    {
+        "rank": 334,
+        "name": "NICULAI Isabella Andreea",
+        "country": "ROU",
+        "points": 2.0
+    },
+    {
+        "rank": 335,
+        "name": "AUTERI Caterina",
+        "country": "ITA",
+        "points": 2.0
+    },
+    {
+        "rank": 336,
+        "name": "KELLER Camille",
+        "country": "FRA",
+        "points": 2.0
+    },
+    {
+        "rank": 337,
+        "name": "CHEN Chen",
+        "country": "CHN",
+        "points": 2.0
+    },
+    {
+        "rank": 338,
+        "name": "CANDREVA Greta",
+        "country": "USA",
+        "points": 2.0
+    },
+    {
+        "rank": 339,
+        "name": "JIANG Serena",
+        "country": "CAN",
+        "points": 2.0
+    },
+    {
+        "rank": 340,
+        "name": "HUREL Bertille",
+        "country": "CAN",
+        "points": 2.0
+    },
+    {
+        "rank": 341,
+        "name": "HAM Sumin",
+        "country": "KOR",
+        "points": 2.0
+    },
+    {
+        "rank": 342,
+        "name": "DING Dong",
+        "country": "CHN",
+        "points": 2.0
+    },
+    {
+        "rank": 343,
+        "name": "ZHANG XINRONG",
+        "country": "CHN",
+        "points": 2.0
+    },
+    {
+        "rank": 344,
+        "name": "ZAKHARENKO Antonina",
+        "country": "RUS",
+        "points": 2.0
+    },
+    {
+        "rank": 345,
+        "name": "NIXON Caroline",
+        "country": "USA",
+        "points": 2.0
+    },
+    {
+        "rank": 346,
+        "name": "HILBRIG Viktoria",
+        "country": "GER",
+        "points": 2.0
+    },
+    {
+        "rank": 347,
+        "name": "KUTT Laura",
+        "country": "EST",
+        "points": 1.875
+    },
+    {
+        "rank": 348,
+        "name": "TARIN Lana",
+        "country": "FRA",
+        "points": 1.75
+    },
+    {
+        "rank": 349,
+        "name": "BOS Valentina",
+        "country": "SUI",
+        "points": 1.75
+    },
+    {
+        "rank": 350,
+        "name": "HILLE-DAHL Thale",
+        "country": "NOR",
+        "points": 1.625
+    },
+    {
+        "rank": 351,
+        "name": "BONITO Fabiana",
+        "country": "POR",
+        "points": 1.625
+    },
+    {
+        "rank": 352,
+        "name": "TENGESDAL Vilde",
+        "country": "NOR",
+        "points": 1.5
+    },
+    {
+        "rank": 353,
+        "name": "SAMKO Anastasiia",
+        "country": "UKR",
+        "points": 1.5
+    },
+    {
+        "rank": 354,
+        "name": "VILLALONGUE Minerva",
+        "country": "FRA",
+        "points": 1.5
+    },
+    {
+        "rank": 355,
+        "name": "MANSUROVA Ramina",
+        "country": "NED",
+        "points": 1.5
+    },
+    {
+        "rank": 356,
+        "name": "MUKOID Yuliia",
+        "country": "UKR",
+        "points": 1.5
+    },
+    {
+        "rank": 357,
+        "name": "VARFOLOMEYEVA Darya",
+        "country": "UKR",
+        "points": 1.5
+    },
+    {
+        "rank": 358,
+        "name": "ZETTERMANN Renata",
+        "country": "BRA",
+        "points": 1.5
+    },
+    {
+        "rank": 359,
+        "name": "YOUSEF Mira",
+        "country": "UKR",
+        "points": 1.5
+    },
+    {
+        "rank": 360,
+        "name": "POLOZOVA Yulia",
+        "country": "RUS",
+        "points": 1.5
+    },
+    {
+        "rank": 361,
+        "name": "AIGERMANOVA Gabriela",
+        "country": "CZE",
+        "points": 1.5
+    },
+    {
+        "rank": 362,
+        "name": "NAGY Emma",
+        "country": "HUN",
+        "points": 1.5
+    },
+    {
+        "rank": 363,
+        "name": "BILOUS-GRIDZHAK Valeriia",
+        "country": "UKR",
+        "points": 1.5
+    },
+    {
+        "rank": 364,
+        "name": "YANG Hanting",
+        "country": "CHN",
+        "points": 1.5
+    },
+    {
+        "rank": 365,
+        "name": "LV Xi Er",
+        "country": "CAN",
+        "points": 1.5
+    },
+    {
+        "rank": 366,
+        "name": "KRYMOVA Galina",
+        "country": "RUS",
+        "points": 1.375
+    },
+    {
+        "rank": 367,
+        "name": "STEFFENS Eva",
+        "country": "GER",
+        "points": 1.375
+    },
+    {
+        "rank": 368,
+        "name": "ZABOLOTNA Daryna",
+        "country": "UKR",
+        "points": 1.25
+    },
+    {
+        "rank": 369,
+        "name": "SILETTI Vittoria",
+        "country": "ITA",
+        "points": 1.25
+    },
+    {
+        "rank": 370,
+        "name": "MAIGA Magda Louna",
+        "country": "SUI",
+        "points": 1.25
+    },
+    {
+        "rank": 371,
+        "name": "STILLER Natalja",
+        "country": "DEN",
+        "points": 1.25
+    },
+    {
+        "rank": 372,
+        "name": "TORREGO Alicia",
+        "country": "ESP",
+        "points": 1.25
+    },
+    {
+        "rank": 373,
+        "name": "GINEX Eleonora",
+        "country": "ITA",
+        "points": 1.25
+    },
+    {
+        "rank": 374,
+        "name": "TRYNOVA Julia",
+        "country": "EST",
+        "points": 1.25
+    },
+    {
+        "rank": 375,
+        "name": "SHEVCHENKO Vasilisa",
+        "country": "FIN",
+        "points": 1.25
+    },
+    {
+        "rank": 376,
+        "name": "SEREGIN EKATERINA",
+        "country": "USA",
+        "points": 1.25
+    },
+    {
+        "rank": 377,
+        "name": "MARSCHALL Reka",
+        "country": "HUN",
+        "points": 1.25
+    },
+    {
+        "rank": 378,
+        "name": "SOBUS Yanka",
+        "country": "CAN",
+        "points": 1.25
+    },
+    {
+        "rank": 379,
+        "name": "WIMMER Dorina",
+        "country": "HUN",
+        "points": 1.25
+    },
+    {
+        "rank": 380,
+        "name": "NOR ANUAR Filzah Hidayah Binte",
+        "country": "SGP",
+        "points": 1.125
+    },
+    {
+        "rank": 381,
+        "name": "LORD Sarah-Eve",
+        "country": "CAN",
+        "points": 1.125
+    },
+    {
+        "rank": 382,
+        "name": "STEFANOVA Mihaela",
+        "country": "BUL",
+        "points": 1.0
+    },
+    {
+        "rank": 383,
+        "name": "MACKINNON Leonora",
+        "country": "CAN",
+        "points": 1.0
+    },
+    {
+        "rank": 384,
+        "name": "HERSANT Lydiane",
+        "country": "FRA",
+        "points": 1.0
+    },
+    {
+        "rank": 385,
+        "name": "RODRIGUEZ VICENTE Alejandra",
+        "country": "ESP",
+        "points": 1.0
+    },
+    {
+        "rank": 386,
+        "name": "ZENS Anna",
+        "country": "LUX",
+        "points": 1.0
+    },
+    {
+        "rank": 387,
+        "name": "HEUBI Pauline",
+        "country": "SUI",
+        "points": 1.0
+    },
+    {
+        "rank": 388,
+        "name": "IZMAYLOVA Maria",
+        "country": "NOR",
+        "points": 1.0
+    },
+    {
+        "rank": 389,
+        "name": "OHON Ustina",
+        "country": "UKR",
+        "points": 1.0
+    },
+    {
+        "rank": 390,
+        "name": "VORNANEN Anni",
+        "country": "FIN",
+        "points": 1.0
+    },
+    {
+        "rank": 391,
+        "name": "PATERSON Eilidh",
+        "country": "GBR",
+        "points": 1.0
+    },
+    {
+        "rank": 392,
+        "name": "CECCHET Irene Sofia",
+        "country": "ITA",
+        "points": 1.0
+    },
+    {
+        "rank": 393,
+        "name": "KEISER Lena",
+        "country": "SUI",
+        "points": 1.0
+    },
+    {
+        "rank": 394,
+        "name": "DE CAPRIO Agnese",
+        "country": "ITA",
+        "points": 1.0
+    },
+    {
+        "rank": 394,
+        "name": "HOLLING Emma",
+        "country": "GBR",
+        "points": 1.0
+    },
+    {
+        "rank": 396,
+        "name": "GILDERNES Ada Sofie",
+        "country": "NOR",
+        "points": 1.0
+    },
+    {
+        "rank": 397,
+        "name": "SZEKERES Lily",
+        "country": "BEL",
+        "points": 1.0
+    },
+    {
+        "rank": 398,
+        "name": "MELLON-WHELAN Aisling",
+        "country": "IRL",
+        "points": 1.0
+    },
+    {
+        "rank": 399,
+        "name": "CLAIN Manon",
+        "country": "FRA",
+        "points": 1.0
+    },
+    {
+        "rank": 400,
+        "name": "FEDENKO Dominika",
+        "country": "UKR",
+        "points": 1.0
+    },
+    {
+        "rank": 401,
+        "name": "VALICSEK-PANÁCZ Andrea",
+        "country": "AUT",
+        "points": 1.0
+    },
+    {
+        "rank": 402,
+        "name": "VERSTEIJNEN Annabelle",
+        "country": "NED",
+        "points": 1.0
+    },
+    {
+        "rank": 403,
+        "name": "CAFFINO SARA",
+        "country": "ITA",
+        "points": 1.0
+    },
+    {
+        "rank": 404,
+        "name": "RUSSELL Amelie",
+        "country": "GBR",
+        "points": 1.0
+    },
+    {
+        "rank": 405,
+        "name": "LEGAC Gloria-Dahlia",
+        "country": "AUT",
+        "points": 1.0
+    },
+    {
+        "rank": 406,
+        "name": "BULMAN Imogen",
+        "country": "GBR",
+        "points": 1.0
+    },
+    {
+        "rank": 407,
+        "name": "CONRAD Anastasia",
+        "country": "SUI",
+        "points": 1.0
+    },
+    {
+        "rank": 408,
+        "name": "KONING Ona",
+        "country": "NED",
+        "points": 1.0
+    },
+    {
+        "rank": 409,
+        "name": "CEBE Ceren",
+        "country": "TUR",
+        "points": 1.0
+    },
+    {
+        "rank": 410,
+        "name": "ERTEN Nilahsen",
+        "country": "TUR",
+        "points": 1.0
+    },
+    {
+        "rank": 411,
+        "name": "KIKERPILL Eliisa",
+        "country": "EST",
+        "points": 1.0
+    },
+    {
+        "rank": 412,
+        "name": "DORVAL Anne-Marie",
+        "country": "CAN",
+        "points": 1.0
+    },
+    {
+        "rank": 413,
+        "name": "ABAJO SALCEDO Lucia",
+        "country": "ESP",
+        "points": 1.0
+    },
+    {
+        "rank": 414,
+        "name": "LARKINA Taisiya",
+        "country": "RUS",
+        "points": 1.0
+    },
+    {
+        "rank": 415,
+        "name": "YANG Dong",
+        "country": "CHN",
+        "points": 1.0
+    },
+    {
+        "rank": 416,
+        "name": "JIANG Huishuang",
+        "country": "CHN",
+        "points": 1.0
+    },
+    {
+        "rank": 417,
+        "name": "HU Mingze",
+        "country": "CHN",
+        "points": 1.0
+    },
+    {
+        "rank": 418,
+        "name": "MAANINKA Moa",
+        "country": "SWE",
+        "points": 1.0
+    },
+    {
+        "rank": 419,
+        "name": "WITTER Catherine",
+        "country": "USA",
+        "points": 1.0
+    },
+    {
+        "rank": 420,
+        "name": "CAN Zulal",
+        "country": "TUR",
+        "points": 1.0
+    },
+    {
+        "rank": 421,
+        "name": "PYTKA Sara",
+        "country": "POL",
+        "points": 1.0
+    },
+    {
+        "rank": 422,
+        "name": "FAN Yun-Cian",
+        "country": "TPE",
+        "points": 1.0
+    },
+    {
+        "rank": 423,
+        "name": "KIM Reena",
+        "country": "KOR",
+        "points": 1.0
+    },
+    {
+        "rank": 424,
+        "name": "SILVA Marcela",
+        "country": "BRA",
+        "points": 1.0
+    },
+    {
+        "rank": 425,
+        "name": "LAHAROTTE Gwendoline",
+        "country": "FRA",
+        "points": 1.0
+    },
+    {
+        "rank": 426,
+        "name": "KOLBENEVA Ekaterina",
+        "country": "RUS",
+        "points": 1.0
+    },
+    {
+        "rank": 427,
+        "name": "MISIAK Laura",
+        "country": "POL",
+        "points": 1.0
+    },
+    {
+        "rank": 428,
+        "name": "EMBRICH Maria",
+        "country": "EST",
+        "points": 1.0
+    },
+    {
+        "rank": 429,
+        "name": "ION Theodora",
+        "country": "ROU",
+        "points": 0.875
+    },
+    {
+        "rank": 430,
+        "name": "CHTEFANOV Emily",
+        "country": "ISR",
+        "points": 0.875
+    },
+    {
+        "rank": 431,
+        "name": "CORRADINO Anita",
+        "country": "ITA",
+        "points": 0.75
+    },
+    {
+        "rank": 432,
+        "name": "JUANES CARRENO Monica",
+        "country": "ESP",
+        "points": 0.75
+    },
+    {
+        "rank": 433,
+        "name": "CASAMENTI Anna",
+        "country": "ITA",
+        "points": 0.75
+    },
+    {
+        "rank": 434,
+        "name": "UMLAUF Beatrix",
+        "country": "AUT",
+        "points": 0.75
+    },
+    {
+        "rank": 435,
+        "name": "VAN MARION Kirsten",
+        "country": "CAN",
+        "points": 0.75
+    },
+    {
+        "rank": 436,
+        "name": "ROSKOSZ Anna",
+        "country": "POL",
+        "points": 0.75
+    },
+    {
+        "rank": 437,
+        "name": "RAMIREZ GUEVARA Dayanna Graciela",
+        "country": "ESA",
+        "points": 0.75
+    },
+    {
+        "rank": 438,
+        "name": "ESTEVEZ ESCALONA Lola",
+        "country": "ESP",
+        "points": 0.75
+    },
+    {
+        "rank": 439,
+        "name": "CHACON Camila",
+        "country": "VEN",
+        "points": 0.75
+    },
+    {
+        "rank": 440,
+        "name": "PISTSOVA Ulyana",
+        "country": "KAZ",
+        "points": 0.75
+    },
+    {
+        "rank": 441,
+        "name": "TOKTAS Yasemin",
+        "country": "TUR",
+        "points": 0.75
+    },
+    {
+        "rank": 442,
+        "name": "DUTTA Jyotika",
+        "country": "IND",
+        "points": 0.75
+    },
+    {
+        "rank": 443,
+        "name": "ZERRWECK Lina",
+        "country": "GER",
+        "points": 0.75
+    },
+    {
+        "rank": 444,
+        "name": "ZIEGLER Luise",
+        "country": "GER",
+        "points": 0.625
+    },
+    {
+        "rank": 445,
+        "name": "SENNERLIN HOLM Engla",
+        "country": "SWE",
+        "points": 0.625
+    },
+    {
+        "rank": 446,
+        "name": "ALZAABI Shaikha",
+        "country": "UAE",
+        "points": 0.625
+    },
+    {
+        "rank": 447,
+        "name": "SKOLYSHEVA Arina",
+        "country": "GEO",
+        "points": 0.625
+    },
+    {
+        "rank": 448,
+        "name": "LAI Hiu Tung",
+        "country": "HKG",
+        "points": 0.625
+    },
+    {
+        "rank": 449,
+        "name": "HUANG U Kei",
+        "country": "MAC",
+        "points": 0.625
+    },
+    {
+        "rank": 450,
+        "name": "TSOGBAYAR Undral",
+        "country": "MGL",
+        "points": 0.625
+    },
+    {
+        "rank": 451,
+        "name": "SAPIN Galadrielle Tunde",
+        "country": "SUI",
+        "points": 0.5
+    },
+    {
+        "rank": 452,
+        "name": "EADIE Olivia",
+        "country": "GBR",
+        "points": 0.5
+    },
+    {
+        "rank": 453,
+        "name": "UBAUD Ann Charlotte",
+        "country": "FRA",
+        "points": 0.5
+    },
+    {
+        "rank": 453,
+        "name": "S NAGY Emese",
+        "country": "HUN",
+        "points": 0.5
+    },
+    {
+        "rank": 455,
+        "name": "PIERACCIANI Alice",
+        "country": "ITA",
+        "points": 0.5
+    },
+    {
+        "rank": 456,
+        "name": "VAN",
+        "country": "DEN",
+        "points": 0.5
+    },
+    {
+        "rank": 457,
+        "name": "RAMUZ Leonie",
+        "country": "SUI",
+        "points": 0.5
+    },
+    {
+        "rank": 458,
+        "name": "HERRING JOHNSON Darcy",
+        "country": "GBR",
+        "points": 0.5
+    },
+    {
+        "rank": 459,
+        "name": "GRAHAMSLAW Kira",
+        "country": "GBR",
+        "points": 0.5
+    },
+    {
+        "rank": 460,
+        "name": "FATULA Yuliia",
+        "country": "UKR",
+        "points": 0.5
+    },
+    {
+        "rank": 461,
+        "name": "SANSONE Arianna",
+        "country": "ITA",
+        "points": 0.5
+    },
+    {
+        "rank": 462,
+        "name": "UPTON Megan",
+        "country": "GBR",
+        "points": 0.5
+    },
+    {
+        "rank": 463,
+        "name": "BLACK Abagael",
+        "country": "GBR",
+        "points": 0.5
+    },
+    {
+        "rank": 464,
+        "name": "SZARVAS Rita",
+        "country": "HUN",
+        "points": 0.5
+    },
+    {
+        "rank": 465,
+        "name": "LASMOLLES Stephanie",
+        "country": "FRA",
+        "points": 0.5
+    },
+    {
+        "rank": 466,
+        "name": "ZILIONYTE Beatrice",
+        "country": "LTU",
+        "points": 0.5
+    },
+    {
+        "rank": 467,
+        "name": "SIMKUTE Ausrine",
+        "country": "LTU",
+        "points": 0.5
+    },
+    {
+        "rank": 468,
+        "name": "STEPANOVA Yelyzaveta",
+        "country": "UKR",
+        "points": 0.5
+    },
+    {
+        "rank": 469,
+        "name": "DUBEAU Alexa",
+        "country": "CAN",
+        "points": 0.5
+    },
+    {
+        "rank": 470,
+        "name": "ROGERSON Jessica",
+        "country": "GBR",
+        "points": 0.5
+    },
+    {
+        "rank": 471,
+        "name": "ANIS Dinara",
+        "country": "EST",
+        "points": 0.5
+    },
+    {
+        "rank": 472,
+        "name": "O'BRIEN Maiya",
+        "country": "IRL",
+        "points": 0.5
+    },
+    {
+        "rank": 473,
+        "name": "GRANT Lucy",
+        "country": "GBR",
+        "points": 0.5
+    },
+    {
+        "rank": 474,
+        "name": "BERENDS Carmen",
+        "country": "NED",
+        "points": 0.5
+    },
+    {
+        "rank": 475,
+        "name": "GORBACHUK Yelyzaveta",
+        "country": "UKR",
+        "points": 0.5
+    },
+    {
+        "rank": 476,
+        "name": "VARONE Aurora",
+        "country": "ITA",
+        "points": 0.5
+    },
+    {
+        "rank": 477,
+        "name": "MAVRIKIOU Irina",
+        "country": "CYP",
+        "points": 0.5
+    },
+    {
+        "rank": 477,
+        "name": "DEWILDE SARAH",
+        "country": "FRA",
+        "points": 0.5
+    },
+    {
+        "rank": 479,
+        "name": "POYSTI Laura",
+        "country": "FIN",
+        "points": 0.5
+    },
+    {
+        "rank": 480,
+        "name": "GOGNIAT Vanie",
+        "country": "SUI",
+        "points": 0.5
+    },
+    {
+        "rank": 481,
+        "name": "HABRAN Emeline",
+        "country": "BEL",
+        "points": 0.5
+    },
+    {
+        "rank": 482,
+        "name": "MATIKAINEN Anna",
+        "country": "FIN",
+        "points": 0.5
+    },
+    {
+        "rank": 483,
+        "name": "VERGES Laura",
+        "country": "FRA",
+        "points": 0.5
+    },
+    {
+        "rank": 484,
+        "name": "MINHORST Anni",
+        "country": "GER",
+        "points": 0.5
+    },
+    {
+        "rank": 485,
+        "name": "YOOSEFI Daria",
+        "country": "GER",
+        "points": 0.5
+    },
+    {
+        "rank": 486,
+        "name": "CASAMENTI Alice",
+        "country": "ITA",
+        "points": 0.5
+    },
+    {
+        "rank": 487,
+        "name": "NEERMAN Anna",
+        "country": "BEL",
+        "points": 0.5
+    },
+    {
+        "rank": 488,
+        "name": "GUSATU Elena",
+        "country": "ROU",
+        "points": 0.5
+    },
+    {
+        "rank": 488,
+        "name": "FERIOLI Giulia",
+        "country": "ITA",
+        "points": 0.5
+    },
+    {
+        "rank": 490,
+        "name": "LOMBARD Elodie",
+        "country": "FRA",
+        "points": 0.5
+    },
+    {
+        "rank": 491,
+        "name": "BOTTOMS Lindsay",
+        "country": "GBR",
+        "points": 0.5
+    },
+    {
+        "rank": 491,
+        "name": "DESCAMPS Margot",
+        "country": "FRA",
+        "points": 0.5
+    },
+    {
+        "rank": 493,
+        "name": "PEREZ-MANGLANO ESTEBAN Noa",
+        "country": "ESP",
+        "points": 0.5
+    },
+    {
+        "rank": 494,
+        "name": "ROELS Kaat",
+        "country": "BEL",
+        "points": 0.5
+    },
+    {
+        "rank": 495,
+        "name": "ERGAND Pascale",
+        "country": "FRA",
+        "points": 0.5
+    },
+    {
+        "rank": 495,
+        "name": "BARTHEL Cleophee",
+        "country": "FRA",
+        "points": 0.5
+    },
+    {
+        "rank": 497,
+        "name": "LIXANDRU Nicole",
+        "country": "ESP",
+        "points": 0.5
+    },
+    {
+        "rank": 498,
+        "name": "SHI Ziyan",
+        "country": "CHN",
+        "points": 0.5
+    },
+    {
+        "rank": 499,
+        "name": "ZHAO Jiayu",
+        "country": "CHN",
+        "points": 0.5
+    },
+    {
+        "rank": 500,
+        "name": "WIECZOREK Anna",
+        "country": "POL",
+        "points": 0.5
+    },
+    {
+        "rank": 501,
+        "name": "XU Tai Yang (Sunia)",
+        "country": "CAN",
+        "points": 0.5
+    },
+    {
+        "rank": 501,
+        "name": "CHI Chelsea",
+        "country": "USA",
+        "points": 0.5
+    },
+    {
+        "rank": 503,
+        "name": "SALMINEN Anna",
+        "country": "FIN",
+        "points": 0.5
+    },
+    {
+        "rank": 504,
+        "name": "XU Serena",
+        "country": "CAN",
+        "points": 0.5
+    },
+    {
+        "rank": 505,
+        "name": "CHEN Hailin",
+        "country": "HKG",
+        "points": 0.5
+    },
+    {
+        "rank": 506,
+        "name": "WANG QIAN",
+        "country": "CHN",
+        "points": 0.5
+    },
+    {
+        "rank": 507,
+        "name": "ARMAGANOVA Sofiya",
+        "country": "RUS",
+        "points": 0.5
+    },
+    {
+        "rank": 508,
+        "name": "HALEMBA Antonina",
+        "country": "POL",
+        "points": 0.5
+    },
+    {
+        "rank": 509,
+        "name": "FOMINA Karolina",
+        "country": "KAZ",
+        "points": 0.5
+    },
+    {
+        "rank": 510,
+        "name": "MILLETTE Marie-Frederique",
+        "country": "CAN",
+        "points": 0.5
+    },
+    {
+        "rank": 511,
+        "name": "XIE Yuchen",
+        "country": "CHN",
+        "points": 0.5
+    },
+    {
+        "rank": 512,
+        "name": "SWENSON Nikita",
+        "country": "USA",
+        "points": 0.5
+    },
+    {
+        "rank": 513,
+        "name": "LANDO Tamara",
+        "country": "ISR",
+        "points": 0.5
+    },
+    {
+        "rank": 513,
+        "name": "AI Amy",
+        "country": "CAN",
+        "points": 0.5
+    },
+    {
+        "rank": 513,
+        "name": "WANG Zoe",
+        "country": "USA",
+        "points": 0.5
+    },
+    {
+        "rank": 516,
+        "name": "FONG Sum Sophia",
+        "country": "HKG",
+        "points": 0.5
+    },
+    {
+        "rank": 517,
+        "name": "CHERCHESOVA Lilana",
+        "country": "RUS",
+        "points": 0.5
+    },
+    {
+        "rank": 518,
+        "name": "LEE Ivana",
+        "country": "HKG",
+        "points": 0.5
+    },
+    {
+        "rank": 519,
+        "name": "XIAO Nancy",
+        "country": "CAN",
+        "points": 0.5
+    },
+    {
+        "rank": 520,
+        "name": "LIU Jingqi",
+        "country": "CHN",
+        "points": 0.5
+    },
+    {
+        "rank": 521,
+        "name": "ZHAO Yan",
+        "country": "CHN",
+        "points": 0.5
+    },
+    {
+        "rank": 522,
+        "name": "LEE Jiyoung",
+        "country": "KOR",
+        "points": 0.5
+    },
+    {
+        "rank": 523,
+        "name": "JONAS Anna",
+        "country": "GER",
+        "points": 0.5
+    },
+    {
+        "rank": 524,
+        "name": "KAIDAROVA Viktoriya",
+        "country": "KAZ",
+        "points": 0.5
+    },
+    {
+        "rank": 525,
+        "name": "DRAGAN Alexandra",
+        "country": "ROU",
+        "points": 0.375
+    },
+    {
+        "rank": 526,
+        "name": "ZIVANOVIC Jovana",
+        "country": "SRB",
+        "points": 0.375
+    },
+    {
+        "rank": 527,
+        "name": "KOZIELSKI Katharina",
+        "country": "GER",
+        "points": 0.375
+    },
+    {
+        "rank": 528,
+        "name": "RONASZEKI Izabella",
+        "country": "HUN",
+        "points": 0.375
+    },
+    {
+        "rank": 529,
+        "name": "MISKO Dorina",
+        "country": "HUN",
+        "points": 0.375
+    },
+    {
+        "rank": 530,
+        "name": "CERVENKOVA Katerina",
+        "country": "CZE",
+        "points": 0.375
+    },
+    {
+        "rank": 531,
+        "name": "NASKARI Ariadni",
+        "country": "GRE",
+        "points": 0.375
+    },
+    {
+        "rank": 532,
+        "name": "CHEREDINTSEVA Astasia",
+        "country": "RUS",
+        "points": 0.375
+    },
+    {
+        "rank": 533,
+        "name": "PORWOL Liliana",
+        "country": "POL",
+        "points": 0.375
+    },
+    {
+        "rank": 534,
+        "name": "JAKOBI Julia",
+        "country": "HUN",
+        "points": 0.375
+    },
+    {
+        "rank": 535,
+        "name": "MATSKEVITS Iris Maria",
+        "country": "EST",
+        "points": 0.375
+    },
+    {
+        "rank": 536,
+        "name": "KAHABKOVA Eliska",
+        "country": "CZE",
+        "points": 0.375
+    },
+    {
+        "rank": 537,
+        "name": "TOTH Jazmin",
+        "country": "HUN",
+        "points": 0.375
+    },
+    {
+        "rank": 538,
+        "name": "MELO Leonor",
+        "country": "POR",
+        "points": 0.25
+    },
+    {
+        "rank": 539,
+        "name": "CHIAROLANZA Mariacarolina",
+        "country": "ITA",
+        "points": 0.25
+    },
+    {
+        "rank": 540,
+        "name": "LEGROS Flora",
+        "country": "FRA",
+        "points": 0.25
+    },
+    {
+        "rank": 541,
+        "name": "BADEA Erica",
+        "country": "ROU",
+        "points": 0.25
+    },
+    {
+        "rank": 542,
+        "name": "USHER Georgina",
+        "country": "GBR",
+        "points": 0.25
+    },
+    {
+        "rank": 543,
+        "name": "LEBRILLANT Manju",
+        "country": "FRA",
+        "points": 0.25
+    },
+    {
+        "rank": 544,
+        "name": "RODOPOULOU Nefeli",
+        "country": "GRE",
+        "points": 0.25
+    },
+    {
+        "rank": 545,
+        "name": "CORNALBA Carlotta",
+        "country": "ITA",
+        "points": 0.25
+    },
+    {
+        "rank": 546,
+        "name": "CATINON Fanny",
+        "country": "FRA",
+        "points": 0.25
+    },
+    {
+        "rank": 547,
+        "name": "MITZOVA Emma",
+        "country": "GBR",
+        "points": 0.25
+    },
+    {
+        "rank": 548,
+        "name": "STEIMER Sophie",
+        "country": "FRA",
+        "points": 0.25
+    },
+    {
+        "rank": 549,
+        "name": "TESTA Mariachiara",
+        "country": "ITA",
+        "points": 0.25
+    },
+    {
+        "rank": 550,
+        "name": "DELFINO Lavinia",
+        "country": "ITA",
+        "points": 0.25
+    },
+    {
+        "rank": 551,
+        "name": "DE WIJN Day",
+        "country": "NED",
+        "points": 0.25
+    },
+    {
+        "rank": 552,
+        "name": "CARROZZA Ginevra",
+        "country": "ITA",
+        "points": 0.25
+    },
+    {
+        "rank": 553,
+        "name": "CRISTINA Aurora Maria",
+        "country": "ITA",
+        "points": 0.25
+    },
+    {
+        "rank": 554,
+        "name": "ALHOSANI Zainab",
+        "country": "UAE",
+        "points": 0.25
+    },
+    {
+        "rank": 555,
+        "name": "YURTTAS Yagmur",
+        "country": "TUR",
+        "points": 0.25
+    },
+    {
+        "rank": 556,
+        "name": "LIU Zixian",
+        "country": "CHN",
+        "points": 0.25
+    },
+    {
+        "rank": 556,
+        "name": "LESSOVSKAYA Polina",
+        "country": "KAZ",
+        "points": 0.25
+    },
+    {
+        "rank": 558,
+        "name": "SHI Chenlan",
+        "country": "CHN",
+        "points": 0.25
+    },
+    {
+        "rank": 559,
+        "name": "SPRINGER Sierra",
+        "country": "USA",
+        "points": 0.25
+    },
+    {
+        "rank": 560,
+        "name": "ROMAN Judith",
+        "country": "FRA",
+        "points": 0.25
+    },
+    {
+        "rank": 561,
+        "name": "SAPAROVA Biybimaryam",
+        "country": "UZB",
+        "points": 0.25
+    },
+    {
+        "rank": 562,
+        "name": "ABDELWAHAB Sara",
+        "country": "EGY",
+        "points": 0.25
+    },
+    {
+        "rank": 563,
+        "name": "GAO XINYAN",
+        "country": "CHN",
+        "points": 0.25
+    },
+    {
+        "rank": 564,
+        "name": "SU Evelyn",
+        "country": "CAN",
+        "points": 0.25
+    },
+    {
+        "rank": 565,
+        "name": "LEI Xinrui",
+        "country": "CHN",
+        "points": 0.25
+    },
+    {
+        "rank": 566,
+        "name": "CHARKIEWICZ Karolina",
+        "country": "POL",
+        "points": 0.25
+    },
+    {
+        "rank": 567,
+        "name": "SUN Ze Yu",
+        "country": "CAN",
+        "points": 0.25
+    },
+    {
+        "rank": 568,
+        "name": "ABED Nada",
+        "country": "KSA",
+        "points": 0.25
+    },
+    {
+        "rank": 569,
+        "name": "NAZAROVA Sanam",
+        "country": "UZB",
+        "points": 0.25
+    },
+    {
+        "rank": 570,
+        "name": "PALPACUER Garance",
+        "country": "FRA",
+        "points": 0.25
+    },
+    {
+        "rank": 571,
+        "name": "ADEL DOHA",
+        "country": "EGY",
+        "points": 0.25
+    },
+    {
+        "rank": 572,
+        "name": "VILLAGEOIS Anne Emmanuelle",
+        "country": "FRA",
+        "points": 0.25
+    },
+    {
+        "rank": 573,
+        "name": "HUELLAS-BRUSKIEWICZ Marie-Rose",
+        "country": "CAN",
+        "points": 0.25
+    },
+    {
+        "rank": 574,
+        "name": "YAO Boula Océane",
+        "country": "CIV",
+        "points": 0.0
+    },
+    {
+        "rank": 575,
+        "name": "JEETUN Rachna",
+        "country": "MRI",
+        "points": 0.0
+    },
+    {
+        "rank": 576,
+        "name": "KOUASSI MARIE ROXANE NAOMIE",
+        "country": "CIV",
+        "points": 0.0
+    },
+    {
+        "rank": 577,
+        "name": "NABEEBOCUS Chamillah",
+        "country": "MRI",
+        "points": 0.0
+    },
+    {
+        "rank": 578,
+        "name": "FUCCARO Isabella",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 579,
+        "name": "ARORA Ena",
+        "country": "IND",
+        "points": 0.0
+    },
+    {
+        "rank": 580,
+        "name": "NAUCELLE JARDEL Thais",
+        "country": "FRA",
+        "points": 0.0
+    },
+    {
+        "rank": 581,
+        "name": "ALNAWAISEH Celine",
+        "country": "JOR",
+        "points": 0.0
+    },
+    {
+        "rank": 582,
+        "name": "MAGNI Bianca",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 583,
+        "name": "PALOMO Valeria",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 583,
+        "name": "VOLOSHYNA Mariia",
+        "country": "UKR",
+        "points": 0.0
+    },
+    {
+        "rank": 585,
+        "name": "MIRONOV Leana",
+        "country": "EST",
+        "points": 0.0
+    },
+    {
+        "rank": 586,
+        "name": "LIBERATI Silvia",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 587,
+        "name": "RUEDA MOLINERO Julia",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 588,
+        "name": "ENGDAHL Sophie",
+        "country": "SWE",
+        "points": 0.0
+    },
+    {
+        "rank": 589,
+        "name": "ALKLOUB Shahed",
+        "country": "JOR",
+        "points": 0.0
+    },
+    {
+        "rank": 590,
+        "name": "CASTILLO GUTIERREZ Laura Mariela",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 591,
+        "name": "KORNIICHUK Yelyzaveta-Olha",
+        "country": "UKR",
+        "points": 0.0
+    },
+    {
+        "rank": 592,
+        "name": "VELISLAVOVA Victoria",
+        "country": "BUL",
+        "points": 0.0
+    },
+    {
+        "rank": 592,
+        "name": "KAZMIEROWSKI Chrissa",
+        "country": "USA",
+        "points": 0.0
+    },
+    {
+        "rank": 594,
+        "name": "DI NORCIA Milena",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 595,
+        "name": "BARERA Francesca Benedetta",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 596,
+        "name": "FREDERIKSEN Mia Maja",
+        "country": "DEN",
+        "points": 0.0
+    },
+    {
+        "rank": 597,
+        "name": "AGATH Thordis",
+        "country": "AUT",
+        "points": 0.0
+    },
+    {
+        "rank": 597,
+        "name": "MUELLER Regula",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 599,
+        "name": "MIHALACHE Sophie",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 600,
+        "name": "ONIYE Margarette",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 600,
+        "name": "KUSHTAN Kseniya",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 600,
+        "name": "FAVA Beatrice",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 600,
+        "name": "ANTONUCCI Elena",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 604,
+        "name": "LAMZA Kateryna",
+        "country": "UKR",
+        "points": 0.0
+    },
+    {
+        "rank": 605,
+        "name": "ZALIANI Alice",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 606,
+        "name": "DAMGAARD Josephine Barfod",
+        "country": "DEN",
+        "points": 0.0
+    },
+    {
+        "rank": 607,
+        "name": "ALVAREZ SANZ Gabriela",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 608,
+        "name": "HANSPACH Janine",
+        "country": "PAR",
+        "points": 0.0
+    },
+    {
+        "rank": 609,
+        "name": "JONYNAITE Kamila",
+        "country": "LTU",
+        "points": 0.0
+    },
+    {
+        "rank": 610,
+        "name": "ABDIN Jana",
+        "country": "JOR",
+        "points": 0.0
+    },
+    {
+        "rank": 611,
+        "name": "WAGNER Julia",
+        "country": "GER",
+        "points": 0.0
+    },
+    {
+        "rank": 611,
+        "name": "O'NEILL Grace",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 611,
+        "name": "PEDERSEN Laura",
+        "country": "DEN",
+        "points": 0.0
+    },
+    {
+        "rank": 614,
+        "name": "BENTIVOGLI Anna",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 615,
+        "name": "RANNINGER Maria Pilar",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 616,
+        "name": "PAZ Martina",
+        "country": "URU",
+        "points": 0.0
+    },
+    {
+        "rank": 617,
+        "name": "ROUILLE Justine",
+        "country": "FRA",
+        "points": 0.0
+    },
+    {
+        "rank": 618,
+        "name": "KUVAJA Veera",
+        "country": "FIN",
+        "points": 0.0
+    },
+    {
+        "rank": 619,
+        "name": "OLSEN Ida Rahbek",
+        "country": "DEN",
+        "points": 0.0
+    },
+    {
+        "rank": 619,
+        "name": "PENNISI Elena Maria",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 621,
+        "name": "RAMOS CALDERON Franchelis Margarita",
+        "country": "DOM",
+        "points": 0.0
+    },
+    {
+        "rank": 622,
+        "name": "SEILLE Elena",
+        "country": "FRA",
+        "points": 0.0
+    },
+    {
+        "rank": 622,
+        "name": "ANGULO",
+        "country": "SAN",
+        "points": 0.0
+    },
+    {
+        "rank": 622,
+        "name": "WARD Jayne",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 625,
+        "name": "VARVERI Fani",
+        "country": "GRE",
+        "points": 0.0
+    },
+    {
+        "rank": 626,
+        "name": "MOORE Martha",
+        "country": "IRL",
+        "points": 0.0
+    },
+    {
+        "rank": 627,
+        "name": "LENGYEL Lilla",
+        "country": "HUN",
+        "points": 0.0
+    },
+    {
+        "rank": 628,
+        "name": "CENA Marzia",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 629,
+        "name": "SEAH Denise Ning Yi",
+        "country": "SGP",
+        "points": 0.0
+    },
+    {
+        "rank": 629,
+        "name": "MYLIAVSKA Viktoriia",
+        "country": "UKR",
+        "points": 0.0
+    },
+    {
+        "rank": 629,
+        "name": "PASARA Fatima",
+        "country": "PER",
+        "points": 0.0
+    },
+    {
+        "rank": 632,
+        "name": "MONTONEN Jaana",
+        "country": "FIN",
+        "points": 0.0
+    },
+    {
+        "rank": 633,
+        "name": "PIEDRAHITA GOMEZ Alejandra",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 633,
+        "name": "KARKI Anita",
+        "country": "NEP",
+        "points": 0.0
+    },
+    {
+        "rank": 633,
+        "name": "MASSA Alessia",
+        "country": "PER",
+        "points": 0.0
+    },
+    {
+        "rank": 633,
+        "name": "PIAO Megan Xu-Ran",
+        "country": "IRL",
+        "points": 0.0
+    },
+    {
+        "rank": 637,
+        "name": "LUNDELL Moa",
+        "country": "FIN",
+        "points": 0.0
+    },
+    {
+        "rank": 638,
+        "name": "VAZQUEZ Veronica J.",
+        "country": "PUR",
+        "points": 0.0
+    },
+    {
+        "rank": 639,
+        "name": "KUMAL Pujan Kumari",
+        "country": "NEP",
+        "points": 0.0
+    },
+    {
+        "rank": 639,
+        "name": "FAURE Lisa",
+        "country": "FRA",
+        "points": 0.0
+    },
+    {
+        "rank": 641,
+        "name": "ROSCA Nicole",
+        "country": "IRL",
+        "points": 0.0
+    },
+    {
+        "rank": 642,
+        "name": "ZEPEDA Maileny",
+        "country": "GUA",
+        "points": 0.0
+    },
+    {
+        "rank": 643,
+        "name": "PHAT Lyka",
+        "country": "CAM",
+        "points": 0.0
+    },
+    {
+        "rank": 643,
+        "name": "SPINIELLA Alessandra",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 645,
+        "name": "SOLORZANO Denise",
+        "country": "GUA",
+        "points": 0.0
+    },
+    {
+        "rank": 646,
+        "name": "ANHARSKA Marharyta",
+        "country": "UKR",
+        "points": 0.0
+    },
+    {
+        "rank": 646,
+        "name": "CHANG Chia-Ling",
+        "country": "TPE",
+        "points": 0.0
+    },
+    {
+        "rank": 648,
+        "name": "GYOVAI Lilla",
+        "country": "NED",
+        "points": 0.0
+    },
+    {
+        "rank": 649,
+        "name": "CAREY Michele",
+        "country": "USA",
+        "points": 0.0
+    },
+    {
+        "rank": 650,
+        "name": "PAPUCHI Alejandra",
+        "country": "URU",
+        "points": 0.0
+    },
+    {
+        "rank": 650,
+        "name": "KRSMANOVIC Gala",
+        "country": "SRB",
+        "points": 0.0
+    },
+    {
+        "rank": 650,
+        "name": "CHAUDHARY MAYA",
+        "country": "NEP",
+        "points": 0.0
+    },
+    {
+        "rank": 650,
+        "name": "WALSH Yasmin",
+        "country": "IRL",
+        "points": 0.0
+    },
+    {
+        "rank": 654,
+        "name": "NGUYEN Thu Thao",
+        "country": "VIE",
+        "points": 0.0
+    },
+    {
+        "rank": 655,
+        "name": "KENESHOVA Akak",
+        "country": "KGZ",
+        "points": 0.0
+    },
+    {
+        "rank": 656,
+        "name": "RAMIREZ PEINADO Sofia",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 656,
+        "name": "SIDENKO Sofiia",
+        "country": "UKR",
+        "points": 0.0
+    },
+    {
+        "rank": 656,
+        "name": "ALBERTI Bettina",
+        "country": "URU",
+        "points": 0.0
+    },
+    {
+        "rank": 656,
+        "name": "GURUNG Kripa",
+        "country": "NEP",
+        "points": 0.0
+    },
+    {
+        "rank": 656,
+        "name": "LEADLEY Theadora",
+        "country": "IRL",
+        "points": 0.0
+    },
+    {
+        "rank": 661,
+        "name": "SHEVCHENKO Sofiia",
+        "country": "UKR",
+        "points": 0.0
+    },
+    {
+        "rank": 662,
+        "name": "MANSI Dina",
+        "country": "JOR",
+        "points": 0.0
+    },
+    {
+        "rank": 663,
+        "name": "ELIAS Camila",
+        "country": "GUA",
+        "points": 0.0
+    },
+    {
+        "rank": 664,
+        "name": "VILLACELLINO Aurora Yingchun",
+        "country": "SGP",
+        "points": 0.0
+    },
+    {
+        "rank": 665,
+        "name": "HOWSER Isabella",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 666,
+        "name": "FLORES REYES Lesly Elizabeth",
+        "country": "ESA",
+        "points": 0.0
+    },
+    {
+        "rank": 666,
+        "name": "BUA Matilde",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 668,
+        "name": "COMBATTI Simone",
+        "country": "CHI",
+        "points": 0.0
+    },
+    {
+        "rank": 669,
+        "name": "BINDER ARROYO Aurora",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 670,
+        "name": "CABRERA Fatima",
+        "country": "BOL",
+        "points": 0.0
+    },
+    {
+        "rank": 671,
+        "name": "KOCKEN Veronique",
+        "country": "NED",
+        "points": 0.0
+    },
+    {
+        "rank": 672,
+        "name": "ALMARZOOQI Fajar",
+        "country": "UAE",
+        "points": 0.0
+    },
+    {
+        "rank": 673,
+        "name": "RODRIGUEZ VALERIO Abigail",
+        "country": "CRC",
+        "points": 0.0
+    },
+    {
+        "rank": 674,
+        "name": "GEROUDET Justine",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 675,
+        "name": "MION Annalise",
+        "country": "IRL",
+        "points": 0.0
+    },
+    {
+        "rank": 675,
+        "name": "DELLA CIOPPA Sara",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 675,
+        "name": "MARTIN Sharmella",
+        "country": "JAM",
+        "points": 0.0
+    },
+    {
+        "rank": 675,
+        "name": "GUNARATHNA Janidi",
+        "country": "SRI",
+        "points": 0.0
+    },
+    {
+        "rank": 679,
+        "name": "AZNAR Laura",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 679,
+        "name": "RUMENOVSKI Cintia",
+        "country": "AUT",
+        "points": 0.0
+    },
+    {
+        "rank": 679,
+        "name": "JABERG Sydney",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 679,
+        "name": "KOCKEN Ulrieke",
+        "country": "NED",
+        "points": 0.0
+    },
+    {
+        "rank": 683,
+        "name": "NYKYTIUK Mariia",
+        "country": "UKR",
+        "points": 0.0
+    },
+    {
+        "rank": 684,
+        "name": "BUCSA Ioana",
+        "country": "ROU",
+        "points": 0.0
+    },
+    {
+        "rank": 685,
+        "name": "RAMALHO Teresa",
+        "country": "POR",
+        "points": 0.0
+    },
+    {
+        "rank": 686,
+        "name": "DE CLERCK Noa",
+        "country": "BEL",
+        "points": 0.0
+    },
+    {
+        "rank": 687,
+        "name": "MARCOL Weronika",
+        "country": "POL",
+        "points": 0.0
+    },
+    {
+        "rank": 687,
+        "name": "FEDORCHUK Solomiia",
+        "country": "UKR",
+        "points": 0.0
+    },
+    {
+        "rank": 687,
+        "name": "KUNISCH Matilda",
+        "country": "GER",
+        "points": 0.0
+    },
+    {
+        "rank": 687,
+        "name": "MURRAY Claire",
+        "country": "IRL",
+        "points": 0.0
+    },
+    {
+        "rank": 687,
+        "name": "KOLDITZ Olivia-Sarah",
+        "country": "GER",
+        "points": 0.0
+    },
+    {
+        "rank": 692,
+        "name": "BREITWIESER Carolin",
+        "country": "GER",
+        "points": 0.0
+    },
+    {
+        "rank": 693,
+        "name": "PIEPER Vlinder",
+        "country": "NED",
+        "points": 0.0
+    },
+    {
+        "rank": 694,
+        "name": "GARCIA BLANCO Paula",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 695,
+        "name": "LIPPERT Neolie",
+        "country": "SWE",
+        "points": 0.0
+    },
+    {
+        "rank": 696,
+        "name": "LUSTI Andrina",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 697,
+        "name": "MALCHEVSKA Mariia",
+        "country": "UKR",
+        "points": 0.0
+    },
+    {
+        "rank": 698,
+        "name": "LUMINEAU Juliet",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 699,
+        "name": "ACEDO TRABUCO Ines",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 699,
+        "name": "PICKERING Sophia",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 701,
+        "name": "GONZALEZ PARABACUTO Patricia Carolina",
+        "country": "ARG",
+        "points": 0.0
+    },
+    {
+        "rank": 701,
+        "name": "KOLDITZ Lilian-Fabienne",
+        "country": "GER",
+        "points": 0.0
+    },
+    {
+        "rank": 703,
+        "name": "RAHADIAN Ariani Syafitri",
+        "country": "INA",
+        "points": 0.0
+    },
+    {
+        "rank": 703,
+        "name": "BARROSO Joana",
+        "country": "POR",
+        "points": 0.0
+    },
+    {
+        "rank": 705,
+        "name": "NIEL Magali",
+        "country": "FRA",
+        "points": 0.0
+    },
+    {
+        "rank": 706,
+        "name": "JURT Florina",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 706,
+        "name": "PUIG PAVON DANIELA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 708,
+        "name": "BANDZELADZE Mariam",
+        "country": "GEO",
+        "points": 0.0
+    },
+    {
+        "rank": 709,
+        "name": "GRIGALIUNAS CAMPOMANES Clara",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 710,
+        "name": "EVERETT Maisie",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 710,
+        "name": "GULYAS Anna",
+        "country": "BEL",
+        "points": 0.0
+    },
+    {
+        "rank": 712,
+        "name": "HAWTHORNE Katy",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 713,
+        "name": "BRUYNOOGHE Renee",
+        "country": "BEL",
+        "points": 0.0
+    },
+    {
+        "rank": 713,
+        "name": "CIANI Carolina",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 713,
+        "name": "SÜTÖ Daniela",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 716,
+        "name": "DRAG Sofia",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 717,
+        "name": "LORENZ Therese",
+        "country": "AUT",
+        "points": 0.0
+    },
+    {
+        "rank": 718,
+        "name": "KOLLOCH Marit",
+        "country": "GER",
+        "points": 0.0
+    },
+    {
+        "rank": 718,
+        "name": "PERAL SANCHEZ MARTINA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 720,
+        "name": "COAKLEY Elizabeth",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 721,
+        "name": "SAPIN-DORNACHER Maria",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 721,
+        "name": "BUCHANAN Courtney",
+        "country": "AUS",
+        "points": 0.0
+    },
+    {
+        "rank": 721,
+        "name": "MUYLLE Luisa",
+        "country": "BEL",
+        "points": 0.0
+    },
+    {
+        "rank": 724,
+        "name": "POPOVA Kseniya",
+        "country": "UKR",
+        "points": 0.0
+    },
+    {
+        "rank": 724,
+        "name": "LIU Ellen",
+        "country": "AUS",
+        "points": 0.0
+    },
+    {
+        "rank": 726,
+        "name": "AAMLID Anaelle",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 726,
+        "name": "HODKINSON Erika",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 726,
+        "name": "SEPPALA Milka",
+        "country": "FIN",
+        "points": 0.0
+    },
+    {
+        "rank": 726,
+        "name": "STAUDACHER Annika",
+        "country": "GER",
+        "points": 0.0
+    },
+    {
+        "rank": 730,
+        "name": "MUNTEAN Andreea",
+        "country": "ROU",
+        "points": 0.0
+    },
+    {
+        "rank": 731,
+        "name": "CHWOJNIK Tamara",
+        "country": "ARG",
+        "points": 0.0
+    },
+    {
+        "rank": 731,
+        "name": "GERARD Kim",
+        "country": "BEL",
+        "points": 0.0
+    },
+    {
+        "rank": 731,
+        "name": "MORENO ANDRES Maria Isabel",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 734,
+        "name": "DASWANI ANGULO Irene",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 735,
+        "name": "MILLWARD Amelia",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 735,
+        "name": "BENNEBROEK Phileine",
+        "country": "NED",
+        "points": 0.0
+    },
+    {
+        "rank": 737,
+        "name": "DE JONG Cheryl",
+        "country": "NED",
+        "points": 0.0
+    },
+    {
+        "rank": 738,
+        "name": "DE PREUX Camille",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 739,
+        "name": "ARREGUI IDOATE Irene",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 740,
+        "name": "MYRONIDOU SYMEONIDOU Athina",
+        "country": "GRE",
+        "points": 0.0
+    },
+    {
+        "rank": 741,
+        "name": "POGHOSOVA Emma",
+        "country": "ARM",
+        "points": 0.0
+    },
+    {
+        "rank": 741,
+        "name": "LINDHOLM Ingrid",
+        "country": "SWE",
+        "points": 0.0
+    },
+    {
+        "rank": 741,
+        "name": "DEPREZ Bieke",
+        "country": "BEL",
+        "points": 0.0
+    },
+    {
+        "rank": 744,
+        "name": "MAJDANDZIC Andrea",
+        "country": "CRO",
+        "points": 0.0
+    },
+    {
+        "rank": 744,
+        "name": "KEUSCH Zoe",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 744,
+        "name": "TEIJEIRO CALDERON Nuria",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 747,
+        "name": "REDEL ADEVA Cayetana",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 748,
+        "name": "MIKELIC Lara",
+        "country": "CRO",
+        "points": 0.0
+    },
+    {
+        "rank": 749,
+        "name": "ORTEGA LOPEZ Maria",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 750,
+        "name": "ALBRECHT Giulia",
+        "country": "GER",
+        "points": 0.0
+    },
+    {
+        "rank": 750,
+        "name": "SCHADE Maike",
+        "country": "GER",
+        "points": 0.0
+    },
+    {
+        "rank": 752,
+        "name": "VAN",
+        "country": "DER",
+        "points": 0.0
+    },
+    {
+        "rank": 752,
+        "name": "JURT Katharina",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 752,
+        "name": "TORRISI Sofia",
+        "country": "ITA",
+        "points": 0.0
+    },
+    {
+        "rank": 755,
+        "name": "MILICIC MILAKOVIC Andjela",
+        "country": "SRB",
+        "points": 0.0
+    },
+    {
+        "rank": 756,
+        "name": "CHENNELLS Poppy",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 756,
+        "name": "HEINRICHS Aaliyah",
+        "country": "USA",
+        "points": 0.0
+    },
+    {
+        "rank": 758,
+        "name": "APRIAMASHVILI Mariami",
+        "country": "GEO",
+        "points": 0.0
+    },
+    {
+        "rank": 759,
+        "name": "ORTEGA MANZANO SOFIA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 760,
+        "name": "DAL PONTE RUAQUE Giulia",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 761,
+        "name": "PETRENKO Hanna",
+        "country": "UKR",
+        "points": 0.0
+    },
+    {
+        "rank": 762,
+        "name": "ORTEGA MORILLAS Carmen",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 763,
+        "name": "KEFALA TSOROU Styliani",
+        "country": "GRE",
+        "points": 0.0
+    },
+    {
+        "rank": 763,
+        "name": "BEKI Andrea",
+        "country": "HUN",
+        "points": 0.0
+    },
+    {
+        "rank": 765,
+        "name": "DE PREUX Audrey",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 765,
+        "name": "SIMCIC Ela",
+        "country": "SLO",
+        "points": 0.0
+    },
+    {
+        "rank": 767,
+        "name": "GOMEZ MARTIN Rebeca",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 768,
+        "name": "PEREIRO CONCHA Vera",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 769,
+        "name": "AL NAHLA Lamar",
+        "country": "UAE",
+        "points": 0.0
+    },
+    {
+        "rank": 770,
+        "name": "ODOLO Kathrin",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 770,
+        "name": "PEDROSA MATEOS Belen",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 770,
+        "name": "DJUKIC Masa",
+        "country": "SRB",
+        "points": 0.0
+    },
+    {
+        "rank": 773,
+        "name": "CRISTIA CAMPOMANES Ines",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 774,
+        "name": "NAVARRO NUNEZ Marta",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 775,
+        "name": "KUJUNDZIC Nora",
+        "country": "CRO",
+        "points": 0.0
+    },
+    {
+        "rank": 776,
+        "name": "VUKOJEVIC Andrea",
+        "country": "CRO",
+        "points": 0.0
+    },
+    {
+        "rank": 776,
+        "name": "RIADI Salema",
+        "country": "SUI",
+        "points": 0.0
+    },
+    {
+        "rank": 776,
+        "name": "GABRIC Antea",
+        "country": "CRO",
+        "points": 0.0
+    },
+    {
+        "rank": 776,
+        "name": "MENG Yifan",
+        "country": "CHN",
+        "points": 0.0
+    },
+    {
+        "rank": 776,
+        "name": "LLAMAS HERNANDO ALMUDENA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 781,
+        "name": "MARI VILACHA Ariadna",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 782,
+        "name": "MORENO BASURTO Isabel",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 783,
+        "name": "ALSHAMMA Reem",
+        "country": "UAE",
+        "points": 0.0
+    },
+    {
+        "rank": 783,
+        "name": "CHALKHAASUREN Enkhbadral",
+        "country": "MGL",
+        "points": 0.0
+    },
+    {
+        "rank": 783,
+        "name": "D'ABBRACCIO Isabella",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 786,
+        "name": "FLITMAN Gabrielle",
+        "country": "MEX",
+        "points": 0.0
+    },
+    {
+        "rank": 787,
+        "name": "POLJAK Lena Marija",
+        "country": "CRO",
+        "points": 0.0
+    },
+    {
+        "rank": 787,
+        "name": "MOREL Viktoria",
+        "country": "BUL",
+        "points": 0.0
+    },
+    {
+        "rank": 787,
+        "name": "SCHLEGEL Lena",
+        "country": "GER",
+        "points": 0.0
+    },
+    {
+        "rank": 790,
+        "name": "BESTER Natania",
+        "country": "RSA",
+        "points": 0.0
+    },
+    {
+        "rank": 791,
+        "name": "JAKSIC KOVAC Sara",
+        "country": "CRO",
+        "points": 0.0
+    },
+    {
+        "rank": 791,
+        "name": "VANDAELE Anais",
+        "country": "FRA",
+        "points": 0.0
+    },
+    {
+        "rank": 793,
+        "name": "CAROUSSOS Symi",
+        "country": "CAN",
+        "points": 0.0
+    },
+    {
+        "rank": 794,
+        "name": "CAMPOS ESQUIVEL Andrea",
+        "country": "CRC",
+        "points": 0.0
+    },
+    {
+        "rank": 794,
+        "name": "MORENO VALIENTE Juliana Sofia",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 794,
+        "name": "OSWALD Magda",
+        "country": "CRO",
+        "points": 0.0
+    },
+    {
+        "rank": 797,
+        "name": "BRAVO LLINARES Marta",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 798,
+        "name": "GARCIA-VALDECASAS FORNIELES CONSTANZA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 799,
+        "name": "LOPEZ BELLIDO Natalia",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 800,
+        "name": "JANEZ QUINTANILLA Lucia",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 800,
+        "name": "PLANELLES RAPUN",
+        "country": "MAR",
+        "points": 0.0
+    },
+    {
+        "rank": 802,
+        "name": "ALVAREZ APARICIO Eva",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 803,
+        "name": "WENTZEL Emma Hanna",
+        "country": "HUN",
+        "points": 0.0
+    },
+    {
+        "rank": 804,
+        "name": "DEL PESO OROPESIANO Alejandra",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 805,
+        "name": "VALLADARES PUERTA Sofia",
+        "country": "VEN",
+        "points": 0.0
+    },
+    {
+        "rank": 805,
+        "name": "MATEOS IGLESIAS LUCIA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 807,
+        "name": "CASTRO NIAMPIRA Paula Isabella",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 807,
+        "name": "PETKOVA Mateya",
+        "country": "BUL",
+        "points": 0.0
+    },
+    {
+        "rank": 807,
+        "name": "DANG Aria",
+        "country": "USA",
+        "points": 0.0
+    },
+    {
+        "rank": 810,
+        "name": "PINTADO COLLADO ISABEL",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 811,
+        "name": "RACEU Cristina",
+        "country": "ROU",
+        "points": 0.0
+    },
+    {
+        "rank": 811,
+        "name": "AYUSO FRAUSCHER MALENA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 813,
+        "name": "PRIETO LUNA Irene",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 814,
+        "name": "LOZANO OLARTE Laskmi Natalia",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 815,
+        "name": "SEVERI CARDONA CLAUDIA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 816,
+        "name": "LOZANO PORRAS Lucia",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 817,
+        "name": "NARVAEZ LOZANO Katrin Alejandra",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 817,
+        "name": "SOTO MARTIN CARLA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 819,
+        "name": "FLORES Melina",
+        "country": "MEX",
+        "points": 0.0
+    },
+    {
+        "rank": 819,
+        "name": "FUNES GONZALEZ Ainara",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 821,
+        "name": "CABALLERO SOLCHAGA Paula",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 822,
+        "name": "RUIZ GARRIDO Estela Patricia",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 823,
+        "name": "CANO DIOSA Rosa Maria",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 823,
+        "name": "QUINTANO MAYOR ELENA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 825,
+        "name": "FERNANDEZ ANTON Alba",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 826,
+        "name": "ROSS Andrea",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 827,
+        "name": "CANO JIMENEZ Ivana Gabriela",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 828,
+        "name": "DE CUENCA ALONSO Elena",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 829,
+        "name": "ZULUAGA ZULUAGA Sofia",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 829,
+        "name": "ALONSO OLMOS LUCIA XUAN",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 831,
+        "name": "SALMINEN Sara",
+        "country": "FIN",
+        "points": 0.0
+    },
+    {
+        "rank": 832,
+        "name": "SANCHEZ TATTI Rocio",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 832,
+        "name": "BUSTOS LONDOÑO DANIELA ALEJANDRA",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 834,
+        "name": "VARELA PELEGRI Marta",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 835,
+        "name": "DAVIES Leila",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 836,
+        "name": "USEROS MARTIN MARIA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 837,
+        "name": "RODRIGUEZ SIERRA ISABELLA",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 838,
+        "name": "PROKSIKOVA Patricie",
+        "country": "CZE",
+        "points": 0.0
+    },
+    {
+        "rank": 839,
+        "name": "WANG XINYU",
+        "country": "CHN",
+        "points": 0.0
+    },
+    {
+        "rank": 839,
+        "name": "LOPEZ PERIS ANDREA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 841,
+        "name": "VELA DE PANDO Vicotria",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 841,
+        "name": "TORRES Reychell",
+        "country": "CRC",
+        "points": 0.0
+    },
+    {
+        "rank": 843,
+        "name": "LIM Cheryl",
+        "country": "SGP",
+        "points": 0.0
+    },
+    {
+        "rank": 844,
+        "name": "WANG Cheelyn",
+        "country": "AUS",
+        "points": 0.0
+    },
+    {
+        "rank": 845,
+        "name": "VILLAMARIN ZAMUDIO Manuela",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 845,
+        "name": "WEN CHENGCHENG",
+        "country": "CHN",
+        "points": 0.0
+    },
+    {
+        "rank": 847,
+        "name": "REYES Daniela",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 847,
+        "name": "RUIZ NINO Maria Alejandra",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 847,
+        "name": "RUIZ SEGURA EUNATE",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 847,
+        "name": "PEREZ GARCIA ANDREA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 847,
+        "name": "CALVO MENENDEZ PAULA",
+        "country": "DEL",
+        "points": 0.0
+    },
+    {
+        "rank": 852,
+        "name": "BLANCO SANCHEZ Melanny",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 853,
+        "name": "MAHARABAM Stella Devi",
+        "country": "IND",
+        "points": 0.0
+    },
+    {
+        "rank": 854,
+        "name": "GALPER Eva",
+        "country": "ISR",
+        "points": 0.0
+    },
+    {
+        "rank": 854,
+        "name": "BALAZS Luca",
+        "country": "CAN",
+        "points": 0.0
+    },
+    {
+        "rank": 854,
+        "name": "PAREJA GONZALEZ ALEJANDRA",
+        "country": "COL",
+        "points": 0.0
+    },
+    {
+        "rank": 857,
+        "name": "BIAN JINYAN",
+        "country": "CHN",
+        "points": 0.0
+    },
+    {
+        "rank": 858,
+        "name": "ORTEGA Patricia",
+        "country": "MEX",
+        "points": 0.0
+    },
+    {
+        "rank": 859,
+        "name": "MA Sophie",
+        "country": "CAN",
+        "points": 0.0
+    },
+    {
+        "rank": 860,
+        "name": "MIQUELE LISBONA VALERIA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 861,
+        "name": "CHAN Chit Ying",
+        "country": "HKG",
+        "points": 0.0
+    },
+    {
+        "rank": 862,
+        "name": "URREA LANDA NAIA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 863,
+        "name": "TANG Ying Suet",
+        "country": "HKG",
+        "points": 0.0
+    },
+    {
+        "rank": 863,
+        "name": "MORAL HOJAS JIMENA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 865,
+        "name": "KLIMENKO Anna",
+        "country": "EST",
+        "points": 0.0
+    },
+    {
+        "rank": 865,
+        "name": "BENITEZ DE LUGO RAMOS MARIA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 867,
+        "name": "ZHU LIAOQI",
+        "country": "CHN",
+        "points": 0.0
+    },
+    {
+        "rank": 868,
+        "name": "COOPER Claire",
+        "country": "NZL",
+        "points": 0.0
+    },
+    {
+        "rank": 868,
+        "name": "ZABELINA Anastasiia",
+        "country": "RUS",
+        "points": 0.0
+    },
+    {
+        "rank": 870,
+        "name": "PEREZ DE TORO KARLA ANDREA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 871,
+        "name": "ALAMIRI Dhay",
+        "country": "KSA",
+        "points": 0.0
+    },
+    {
+        "rank": 872,
+        "name": "ZHANG Anxin",
+        "country": "CHN",
+        "points": 0.0
+    },
+    {
+        "rank": 872,
+        "name": "MARTIN SANCHEZ HELENA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 874,
+        "name": "HEINZ Vanessa",
+        "country": "GER",
+        "points": 0.0
+    },
+    {
+        "rank": 875,
+        "name": "ALI Shaikha",
+        "country": "QAT",
+        "points": 0.0
+    },
+    {
+        "rank": 875,
+        "name": "TCHALENKO Thea",
+        "country": "GBR",
+        "points": 0.0
+    },
+    {
+        "rank": 877,
+        "name": "GORNOVSKY Abigail",
+        "country": "CAN",
+        "points": 0.0
+    },
+    {
+        "rank": 877,
+        "name": "HERMOSO CASTILLO",
+        "country": "ONA",
+        "points": 0.0
+    },
+    {
+        "rank": 879,
+        "name": "ZINYAKOVA Natalya",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 880,
+        "name": "WANG Ziyu",
+        "country": "CHN",
+        "points": 0.0
+    },
+    {
+        "rank": 880,
+        "name": "KHORASANI Fateme",
+        "country": "IRI",
+        "points": 0.0
+    },
+    {
+        "rank": 882,
+        "name": "JOYAL Anne-Sophie",
+        "country": "CAN",
+        "points": 0.0
+    },
+    {
+        "rank": 882,
+        "name": "PERELIUBSKAIA Mariia",
+        "country": "KGZ",
+        "points": 0.0
+    },
+    {
+        "rank": 882,
+        "name": "LABANICOVA Katerina",
+        "country": "CZE",
+        "points": 0.0
+    },
+    {
+        "rank": 885,
+        "name": "CHAN Tsz Ching",
+        "country": "HKG",
+        "points": 0.0
+    },
+    {
+        "rank": 885,
+        "name": "SALAMEH Sasha",
+        "country": "LBN",
+        "points": 0.0
+    },
+    {
+        "rank": 885,
+        "name": "BUYANJARGAL Bulten",
+        "country": "MGL",
+        "points": 0.0
+    },
+    {
+        "rank": 888,
+        "name": "MARX Charlotte",
+        "country": "GER",
+        "points": 0.0
+    },
+    {
+        "rank": 889,
+        "name": "ZUBAYDULLOEVA Marjona",
+        "country": "UZB",
+        "points": 0.0
+    },
+    {
+        "rank": 889,
+        "name": "PAN Sara",
+        "country": "AUS",
+        "points": 0.0
+    },
+    {
+        "rank": 889,
+        "name": "URREA LANDA MIREN",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 892,
+        "name": "DAMDINPUREV Mercy",
+        "country": "MGL",
+        "points": 0.0
+    },
+    {
+        "rank": 893,
+        "name": "KE ZIYUE",
+        "country": "CHN",
+        "points": 0.0
+    },
+    {
+        "rank": 893,
+        "name": "SEPULVEDA COLLADO OLIVIA",
+        "country": "ESP",
+        "points": 0.0
+    },
+    {
+        "rank": 895,
+        "name": "SEYED REZAEE Seyedeh Sara",
+        "country": "IRI",
+        "points": 0.0
+    },
+    {
+        "rank": 896,
+        "name": "NG Yuen Lam",
+        "country": "HKG",
+        "points": 0.0
+    },
+    {
+        "rank": 896,
+        "name": "LIU TIANXI",
+        "country": "CHN",
+        "points": 0.0
+    },
+    {
+        "rank": 898,
+        "name": "LINS Elsie",
+        "country": "NZL",
+        "points": 0.0
+    },
+    {
+        "rank": 898,
+        "name": "LEE En Qi",
+        "country": "SGP",
+        "points": 0.0
+    },
+    {
+        "rank": 898,
+        "name": "AL MAADEED Fatima",
+        "country": "QAT",
+        "points": 0.0
+    },
+    {
+        "rank": 898,
+        "name": "LAI Amanda",
+        "country": "TPE",
+        "points": 0.0
+    },
+    {
+        "rank": 898,
+        "name": "WANG Chloe",
+        "country": "USA",
+        "points": 0.0
+    },
+    {
+        "rank": 903,
+        "name": "WEI XIAORAN",
+        "country": "CHN",
+        "points": 0.0
+    },
+    {
+        "rank": 903,
+        "name": "SOLOMON Izabella",
+        "country": "NZL",
+        "points": 0.0
+    },
+    {
+        "rank": 905,
+        "name": "LIN Leona",
+        "country": "TPE",
+        "points": 0.0
+    },
+    {
+        "rank": 905,
+        "name": "MATAYEVA Aysenem",
+        "country": "TKM",
+        "points": 0.0
+    },
+    {
+        "rank": 907,
+        "name": "AL-ABDULLA Thkrayat",
+        "country": "QAT",
+        "points": 0.0
+    },
+    {
+        "rank": 908,
+        "name": "TWEDDLE Sophia",
+        "country": "NZL",
+        "points": 0.0
+    },
+    {
+        "rank": 908,
+        "name": "ELSHEIKH Salma",
+        "country": "EGY",
+        "points": 0.0
+    },
+    {
+        "rank": 910,
+        "name": "AL-ABDULLA Wadha",
+        "country": "QAT",
+        "points": 0.0
+    },
+    {
+        "rank": 910,
+        "name": "WONG Sze Yan Nicole",
+        "country": "HKG",
+        "points": 0.0
+    },
+    {
+        "rank": 912,
+        "name": "GARAYEVA Diana",
+        "country": "TKM",
+        "points": 0.0
+    },
+    {
+        "rank": 913,
+        "name": "KARIPOVA Lyazzat",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 914,
+        "name": "NDJAVERA Varivo",
+        "country": "NAM",
+        "points": 0.0
+    },
+    {
+        "rank": 914,
+        "name": "LESSOVSKAYA Mariya",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 914,
+        "name": "BALAKRISHNAN Trisha",
+        "country": "USA",
+        "points": 0.0
+    },
+    {
+        "rank": 914,
+        "name": "MILA?I? FOLI? Snežana",
+        "country": "MNE",
+        "points": 0.0
+    },
+    {
+        "rank": 918,
+        "name": "STOJAKOVIC Lola",
+        "country": "CAN",
+        "points": 0.0
+    },
+    {
+        "rank": 918,
+        "name": "AINA Ainur",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 920,
+        "name": "LI Zhenni",
+        "country": "CAN",
+        "points": 0.0
+    },
+    {
+        "rank": 921,
+        "name": "BURKO Karina",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 921,
+        "name": "LIN Evelyn",
+        "country": "TPE",
+        "points": 0.0
+    },
+    {
+        "rank": 923,
+        "name": "RAMIREZ Josefina",
+        "country": "MEX",
+        "points": 0.0
+    },
+    {
+        "rank": 924,
+        "name": "LEE Chuan Ling Michelle",
+        "country": "SGP",
+        "points": 0.0
+    },
+    {
+        "rank": 925,
+        "name": "KRASSIKOVA Kristina",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 925,
+        "name": "MANSUROVA Madinabonu",
+        "country": "UZB",
+        "points": 0.0
+    },
+    {
+        "rank": 925,
+        "name": "DOUCI-HABANE Meriem",
+        "country": "MAR",
+        "points": 0.0
+    },
+    {
+        "rank": 928,
+        "name": "KONG Mila",
+        "country": "CAN",
+        "points": 0.0
+    },
+    {
+        "rank": 929,
+        "name": "CHEN Janet",
+        "country": "CAN",
+        "points": 0.0
+    },
+    {
+        "rank": 930,
+        "name": "SAMRATOVA Saera",
+        "country": "KGZ",
+        "points": 0.0
+    },
+    {
+        "rank": 931,
+        "name": "USMONOVA NARGIZA",
+        "country": "UZB",
+        "points": 0.0
+    },
+    {
+        "rank": 932,
+        "name": "ALHATAMLEH Zain",
+        "country": "JOR",
+        "points": 0.0
+    },
+    {
+        "rank": 933,
+        "name": "ALIBEKOVA Assel",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 934,
+        "name": "ELLIS Sarah Tahra",
+        "country": "MAR",
+        "points": 0.0
+    },
+    {
+        "rank": 935,
+        "name": "SVANIDZE Tatiana",
+        "country": "GEO",
+        "points": 0.0
+    },
+    {
+        "rank": 935,
+        "name": "ELSAYED Jana",
+        "country": "EGY",
+        "points": 0.0
+    },
+    {
+        "rank": 937,
+        "name": "HANY Mennalla",
+        "country": "EGY",
+        "points": 0.0
+    },
+    {
+        "rank": 938,
+        "name": "SAMATOVA Amina",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 938,
+        "name": "EGAN Katarina",
+        "country": "AUS",
+        "points": 0.0
+    },
+    {
+        "rank": 940,
+        "name": "LIU Bai Han",
+        "country": "CAN",
+        "points": 0.0
+    },
+    {
+        "rank": 941,
+        "name": "FROLOVA Arina",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 942,
+        "name": "SERIKOVA Sabina",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 943,
+        "name": "GABER Shirwit",
+        "country": "EGY",
+        "points": 0.0
+    },
+    {
+        "rank": 944,
+        "name": "FOMINA Kristina",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 945,
+        "name": "SALAH NUJOOD",
+        "country": "UAE",
+        "points": 0.0
+    },
+    {
+        "rank": 946,
+        "name": "YERMEKKYZY Nuray",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 946,
+        "name": "MIKLENDOVA Valerie",
+        "country": "CZE",
+        "points": 0.0
+    },
+    {
+        "rank": 948,
+        "name": "MISHENINA Valeriya",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 948,
+        "name": "ALMESMARY Dana",
+        "country": "UAE",
+        "points": 0.0
+    },
+    {
+        "rank": 948,
+        "name": "ELKBIR YOSSR",
+        "country": "TUN",
+        "points": 0.0
+    },
+    {
+        "rank": 951,
+        "name": "KIZUB Alexandra",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 951,
+        "name": "CHERNOVA Anfissa",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 953,
+        "name": "ALALEELI Roudha",
+        "country": "UAE",
+        "points": 0.0
+    },
+    {
+        "rank": 954,
+        "name": "ALSUWAIDI Alyazya",
+        "country": "UAE",
+        "points": 0.0
+    },
+    {
+        "rank": 954,
+        "name": "UMAEVA Hava",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 956,
+        "name": "BATYRBEK Anastassiya",
+        "country": "KAZ",
+        "points": 0.0
+    },
+    {
+        "rank": 957,
+        "name": "ILYES Jazmin",
+        "country": "ROU",
+        "points": 0.0
+    },
+    {
+        "rank": 958,
+        "name": "TOMSA Ana",
+        "country": "ROU",
+        "points": 0.0
+    },
+    {
+        "rank": 958,
+        "name": "REMBI Rubeen",
+        "country": "FRA",
+        "points": 0.0
+    },
+    {
+        "rank": 960,
+        "name": "VAINBERG Sophia",
+        "country": "ISR",
+        "points": 0.0
+    },
+    {
+        "rank": 961,
+        "name": "FABIAN Kamilla",
+        "country": "HUN",
+        "points": 0.0
+    },
+    {
+        "rank": 962,
+        "name": "NEBALD Franciska Zita",
+        "country": "HUN",
+        "points": 0.0
+    },
+    {
+        "rank": 963,
+        "name": "KURTINECZ Julia",
+        "country": "ROU",
+        "points": 0.0
+    },
+    {
+        "rank": 964,
+        "name": "KURTINECZ Johanna",
+        "country": "ROU",
+        "points": 0.0
+    },
+    {
+        "rank": 965,
+        "name": "BARTOSKOVA Adela",
+        "country": "CZE",
+        "points": 0.0
+    },
+    {
+        "rank": 966,
+        "name": "HARTMANN Lilly",
+        "country": "AUT",
+        "points": 0.0
+    },
+    {
+        "rank": 967,
+        "name": "PIZZUTI-LAMMER Julia",
+        "country": "AUT",
+        "points": 0.0
+    },
+    {
+        "rank": 968,
+        "name": "CHESHMEDJIEVA Victoria",
+        "country": "BUL",
+        "points": 0.0
+    },
+    {
+        "rank": 969,
+        "name": "TOTHMATYAS Zsofia",
+        "country": "HUN",
+        "points": 0.0
+    },
+    {
+        "rank": 970,
+        "name": "HOMMA Mizuki",
+        "country": "JPN",
+        "points": 0.0
+    },
+    {
+        "rank": 971,
+        "name": "DE CAMARGO Maria Rita",
+        "country": "BRA",
+        "points": 0.0
+    },
+    {
+        "rank": 972,
+        "name": "RENDA Eden Rose",
+        "country": "SWE",
+        "points": 0.0
+    },
+    {
+        "rank": 973,
+        "name": "BORGARUCCI Juliana",
+        "country": "ARG",
+        "points": 0.0
+    },
+    {
+        "rank": 974,
+        "name": "ROH Seungkyoung",
+        "country": "KOR",
+        "points": 0.0
+    },
+    {
+        "rank": 975,
+        "name": "ELTOUDY Bassmala",
+        "country": "EGY",
+        "points": 0.0
+    },
+    {
+        "rank": 976,
+        "name": "MONOVA Lilyana",
+        "country": "BUL",
+        "points": 0.0
+    },
+    {
+        "rank": 977,
+        "name": "HOEFFERER Marie",
+        "country": "AUT",
+        "points": 0.0
+    },
+    {
+        "rank": 978,
+        "name": "TICKLE Wynter",
+        "country": "NZL",
+        "points": 0.0
+    },
+    {
+        "rank": 979,
+        "name": "COSTE Teodora",
+        "country": "ROU",
+        "points": 0.0
+    },
+    {
+        "rank": 980,
+        "name": "DABHADE Khushi",
+        "country": "IND",
+        "points": 0.0
+    },
+    {
+        "rank": 981,
+        "name": "BOUFARES Khadija",
+        "country": "MAR",
+        "points": 0.0
+    },
+    {
+        "rank": 982,
+        "name": "BALL Ella",
+        "country": "AUS",
+        "points": 0.0
+    }
+]
