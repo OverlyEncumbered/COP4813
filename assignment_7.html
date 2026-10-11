@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Deal cards and drag them to the discard pile.">
+    <title>Assignment 7 - Drag and Drop</title>
+    <link rel="stylesheet" href="css/main-theme.css">
+    <link rel="stylesheet" href="css/assignment_7_drag_drop.css">
+    <script src="js/assignment_7_drag_drop.js" defer></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <a class="logo" href="index.html"><img src="assets/MoonAndStar.png" alt="Moon and Star"></a>
+            <a href="index.html">Home</a>
+            <a href="assignment_7.html" aria-current="page">Drag and Drop</a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Assignment 7 - Drag and Drop</h1>
+        <p>Deal five cards, then drag a card to the discard pile. Each deal starts a new hand.</p>
+        <p>You can also click a card or focus it and press Enter or Space to discard it.</p>
+        <button id="deal" type="button">Deal</button>
+
+        <section aria-labelledby="handTitle">
+            <h2 id="handTitle">Your Hand</h2>
+            <div id="hand"></div>
+        </section>
+
+        <section id="discardPile" aria-labelledby="discardTitle">
+            <h2 id="discardTitle">Discard Pile</h2>
+            <p>Drop cards here</p>
+            <div id="discardedCard"></div>
+            <p>Discarded: <span id="discardCount">0</span></p>
+        </section>
+
+        <p id="status" role="status">Click Deal to start.</p>
+        <noscript><p>Enable JavaScript to deal and discard cards.</p></noscript>
+        <p><a href="index.html">Return to Menu</a></p>
+    </main>
+</body>
+</html>
