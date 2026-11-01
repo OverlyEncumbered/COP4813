@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Mobile homepage implementation, testing and Lighthouse navigation audit evidence for COP4813.">
+<title>Mobile Homepage Report | Moon and Star</title>
+<link rel="stylesheet" href="css/main-theme.css">
+<link rel="stylesheet" href="css/home-mobile.css">
+</head>
+<body class="home">
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<header><nav aria-label="Report navigation"><a href="index.html">Home</a><a href="#results">Audit results</a><a href="#capture">Capture instructions</a></nav></header>
+<main id="main-content" tabindex="-1">
+<h1>Mobile homepage report</h1>
+<p>COP4813 · William Larson · Prepared November 1, 2026</p>
+<p><strong>Status: awaiting Lighthouse evidence from the deployed homepage.</strong> No Lighthouse scores or audit findings have been generated or claimed here. Browser layout checks are separate from Lighthouse audits.</p>
+<h2>Implementation and analysis</h2>
+<p>The homepage retains the logo, Home, About, Forms, Calculator, Spirograph and JSON navigation choices, plus all eight existing assignment links. The report is an additional link.</p>
+<ul>
+<li>The navigation wraps into visible rows on phones. No menu is hidden and no JavaScript or hover gesture is needed.</li>
+<li>Assignment links use one column on small screens and two columns on larger screens. Flexible padding and headings allow narrow layouts and enlarged text.</li>
+<li>Links have at least 48-pixel-high touch areas. Visible keyboard focus, a skip link, a named navigation landmark and a current-page indicator improve navigation.</li>
+<li>The existing page title, description, English language and viewport metadata are retained. The logo has alternative text and explicit dimensions.</li>
+<li>Changes are confined to the homepage and this report; mobile usability of individual assignment activities is outside this assignment.</li>
+</ul>
+<h2 id="results">Lighthouse navigation-mode results</h2>
+<dl>
+<dt>Audited URL</dt><dd>Pending — audit https://moonandstar.world/ after deployment.</dd>
+<dt>Run date/time and timezone</dt><dd>Pending capture</dd>
+<dt>Chrome and Lighthouse versions</dt><dd>Pending capture</dd>
+<dt>Mode / device / throttling</dt><dd>Required: Navigation / Mobile. Record the actual throttling settings from the report.</dd>
+<dt>Performance</dt><dd>Not measured</dd>
+<dt>Accessibility</dt><dd>Not measured</dd>
+<dt>Best Practices</dt><dd>Not measured</dd>
+<dt>SEO</dt><dd>Not measured</dd>
+</dl>
+<section class="evidence" aria-labelledby="screenshots"><h3 id="screenshots">Screenshots and exported report</h3>
+<p>Pending: add the score-summary screenshot and expanded issue screenshots here after the audit. Include captions with the URL, date and mobile Navigation settings. Save an HTML or JSON export alongside the images and link it here.</p>
+<!-- Replace the pending paragraph with real evidence, for example:
+<figure><img src="assets/lighthouse/mobile-summary.png" alt="Mobile Lighthouse score summary for the deployed homepage"><figcaption>Actual URL, run date, Navigation/Mobile settings and scores.</figcaption></figure>
+<p><a href="assets/lighthouse/mobile-report.html">View exported Lighthouse report</a></p>
+-->
+</section>
+<section class="evidence" aria-labelledby="issues"><h3 id="issues">Issues and analysis</h3>
+<p>Pending the actual audit. For each failed audit, record its exact title, affected element or resource, why it matters on mobile, the fix or reason it remains, and the result of a repeat audit. If a category has no failures, say so only after reviewing the report. Record manual accessibility checks separately; an automated score does not establish complete accessibility.</p>
+</section>
+<h2 id="capture">Capture and publish the evidence</h2>
+<ol>
+<li>Deploy the updated homepage first. Open https://moonandstar.world/ in desktop Google Chrome and confirm the wrapping menu and report link appear.</li>
+<li>Open DevTools (F12 or Ctrl+Shift+I; on macOS Cmd+Option+I). Select Lighthouse, using the overflow menu if necessary.</li>
+<li>Select <strong>Navigation</strong> mode, <strong>Mobile</strong> device and Performance, Accessibility, Best Practices and SEO. Run Analyze page load (or Run audit, depending on Chrome version). Do not use Timespan or Snapshot mode.</li>
+<li>Capture the report summary with all four scores, the audited URL and the run settings. Expand failed audits and capture their details. Save the report as HTML and/or JSON from its export menu.</li>
+<li>Create assets/lighthouse/ in the repository and place your screenshots and exported report there. Replace the pending fields and evidence section in mobile-report.html with actual scores, images, links and your analysis. A commented example is included in this page’s source.</li>
+<li>Fix relevant issues, repeat the same mobile Navigation audit and label before/after results clearly. Deploy the evidence files and updated report page. Verify every image and report link on the live site.</li>
+</ol>
+<p><a href="https://developer.chrome.com/docs/lighthouse/overview/">Official Lighthouse instructions</a></p>
+<h2>Manual mobile checks</h2>
+<p id="manual-status">Browser checks on November 1, 2026: no horizontal overflow at requested widths of 320, 375, 390, 768 and 1280 CSS pixels (the browser rounded 375 to 376). All six navigation links, all eight assignment links, the logo and report link opened their expected local pages. All homepage link targets measured at least 48 pixels high. The keyboard skip link moved focus to main content, and the report’s capture anchor worked. These are browser viewport checks, not a Lighthouse audit or a real-device test. Before submission, also test on a real phone: portrait and landscape, every navigation and assignment link, logo return to Home, text zoom, keyboard focus and scrolling. Check the homepage at 320, 375, 390 and 768 CSS pixels wide and at desktop width.</p>
+<p><a href="index.html">Return to homepage</a></p>
+</main>
+</body>
+</html>

@@ -13,20 +13,23 @@
     <title>William Larson | COP4813</title>
 
     <link rel="stylesheet" href="css/main-theme.css">
+    <link rel="stylesheet" href="css/home-mobile.css">
 </head>
 
-<body>
+<body class="home">
+    <a class="skip-link" href="#main-content">Skip to main content</a>
 
     <header>
-        <nav>
+        <nav aria-label="Main navigation">
             <a class="logo" href="index.html">
                 <img
                     src="assets/MoonAndStar.png"
                     alt="Moon and Star"
+                    width="50" height="50"
                 >
             </a>
 
-            <a href="index.html">Home</a>
+            <a href="index.html" aria-current="page">Home</a>
             <a href="assignment_1.html">About</a>
             <a href="assignment_3.html">Forms</a>
             <a href="assignment_4.html">Calculator</a>
@@ -35,7 +38,7 @@
         </nav>
     </header>
 
-    <main>
+    <main id="main-content" tabindex="-1">
         <h1>COP4813 | Moon and Star</h1>
 
         <h2>Assignments</h2>
@@ -85,6 +88,8 @@
                 </a>
             </li>
         </menu>
+
+        <p><a class="report-link" href="mobile-report.html">Mobile homepage and Lighthouse report</a></p>
     </main>
 
 </body>

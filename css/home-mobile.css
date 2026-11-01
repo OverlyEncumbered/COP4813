@@ -1,0 +1,27 @@
+/* Loaded only by the homepage and its mobile audit report. */
+.home { line-height: 1.5; }
+.home nav { flex-wrap: wrap; gap: 0.5rem 1rem; padding: 0.75rem clamp(1rem, 4vw, 2rem); }
+.home nav a { display: flex; align-items: center; justify-content: center; min-height: 48px; padding: 0.5rem 0.75rem; }
+.home nav .logo { padding: 0; min-width: 50px; }
+.home nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: 0.3em; }
+.home main { padding-inline: clamp(1rem, 4vw, 2rem); margin-block: 2rem; overflow-wrap: anywhere; }
+.home h1 { font-size: clamp(1.6rem, 5vw, 2rem); line-height: 1.25; }
+.home menu { list-style: none; padding: 0; display: grid; gap: 0.75rem; }
+.home menu a, .home .report-link { display: block; padding: 0.75rem 1rem; min-height: 48px; border: 1px solid var(--color-border); border-radius: 6px; background: var(--color-card); }
+.home main a { color: #a7d0d2; }
+.home main a:hover { color: var(--color-primary-hover); }
+.home a:focus-visible { outline: 3px solid var(--color-primary-hover); outline-offset: 3px; }
+.skip-link { position: absolute; left: 1rem; top: 0; transform: translateY(-150%); padding: 0.75rem; background: var(--color-background); color: var(--color-text); z-index: 1; }
+.skip-link:focus { transform: translateY(0); }
+.home img { max-width: 100%; height: auto; }
+.home .evidence { padding: 1rem; border: 1px solid var(--color-border); border-radius: 6px; margin-block: 1rem; }
+.home dt { font-weight: bold; }
+.home dd { margin: 0 0 0.75rem; }
+.home pre { white-space: pre-wrap; overflow-wrap: anywhere; }
+@media (max-width: 40rem) {
+    .home nav .logo { flex-basis: 100%; margin: 0; justify-content: flex-start; }
+    .home nav > a:not(.logo) { flex: 1 1 calc(33.333% - 1rem); }
+}
+@media (min-width: 40.01rem) {
+    .home menu { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
