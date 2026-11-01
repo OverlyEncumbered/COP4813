@@ -1,0 +1,10 @@
+Homepage Lighthouse evidence — transcribed summary of user-supplied results
+URL: https://moonandstar.world/ (explicitly confirmed by site owner)
+Captured: November 1, 2026, 1:16 PM EST
+Performance 100; Accessibility 100; Best Practices 100; SEO 100
+FCP 0.8 s; LCP 0.8 s; TBT 0 ms; CLS 0; Speed Index 0.8 s
+Emulated Moto G Power; Lighthouse 13.5.0; Chromium 156.0.0.0 with DevTools
+Single page session; Initial page load; Slow 4G throttling
+Insights: network dependency tree; efficient cache lifetimes (estimated savings 353 KiB); improve image delivery (estimated savings 382 KiB); render-blocking requests; LCP breakdown.
+Expanded resource details were not supplied. Security headings were listed without expanded findings. Manual accessibility and structured-data checks remain.
+This is a transcription, not an original Lighthouse export or screenshot.

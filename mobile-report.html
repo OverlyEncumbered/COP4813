@@ -1,63 +1,61 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Mobile homepage implementation, testing and Lighthouse navigation audit evidence for COP4813.">
+<meta name="description" content="Mobile homepage implementation and verified Lighthouse Navigation audit results for William Larson’s COP4813 website.">
 <title>Mobile Homepage Report | Moon and Star</title>
 <link rel="stylesheet" href="css/main-theme.css">
 <link rel="stylesheet" href="css/home-mobile.css">
 </head>
 <body class="home">
 <a class="skip-link" href="#main-content">Skip to main content</a>
-<header><nav aria-label="Report navigation"><a href="index.html">Home</a><a href="#results">Audit results</a><a href="#capture">Capture instructions</a></nav></header>
+<header><nav aria-label="Report navigation"><a href="index.html">Home</a><a href="#results">Audit results</a><a href="#analysis">Issues and analysis</a></nav></header>
 <main id="main-content" tabindex="-1">
 <h1>Mobile homepage report</h1>
-<p>COP4813 · William Larson · Prepared November 1, 2026</p>
-<p><strong>Status: awaiting Lighthouse evidence from the deployed homepage.</strong> No Lighthouse scores or audit findings have been generated or claimed here. Browser layout checks are separate from Lighthouse audits.</p>
-<h2>Implementation and analysis</h2>
-<p>The homepage retains the logo, Home, About, Forms, Calculator, Spirograph and JSON navigation choices, plus all eight existing assignment links. The report is an additional link.</p>
+<p>COP4813 · William Larson · November 1, 2026</p>
+<h2>Implementation</h2>
+<p>The homepage preserves the logo, Home, About, Forms, Calculator, Spirograph and JSON navigation choices and all eight existing assignment links. A link to this report was added.</p>
 <ul>
-<li>The navigation wraps into visible rows on phones. No menu is hidden and no JavaScript or hover gesture is needed.</li>
-<li>Assignment links use one column on small screens and two columns on larger screens. Flexible padding and headings allow narrow layouts and enlarged text.</li>
-<li>Links have at least 48-pixel-high touch areas. Visible keyboard focus, a skip link, a named navigation landmark and a current-page indicator improve navigation.</li>
-<li>The existing page title, description, English language and viewport metadata are retained. The logo has alternative text and explicit dimensions.</li>
-<li>Changes are confined to the homepage and this report; mobile usability of individual assignment activities is outside this assignment.</li>
+<li>Navigation wraps into visible rows on phones, without JavaScript or hover gestures.</li>
+<li>Assignment links use one column on small screens and two on larger screens. Flexible spacing and headings accommodate narrow layouts.</li>
+<li>Links have at least 48-pixel-high touch areas, visible keyboard focus and improved contrast. A skip link, named navigation and current-page indicator support navigation.</li>
+<li>The title, description, English language and viewport metadata are retained. The logo has alternative text and explicit dimensions.</li>
+<li>The homepage and report use a separate stylesheet; other assignment pages and their activities are unchanged.</li>
 </ul>
-<h2 id="results">Lighthouse navigation-mode results</h2>
+<h2 id="results">Lighthouse Navigation results</h2>
+<p>These results are taken from the original Lighthouse export supplied by the site owner, rather than a new audit run by the assistant.</p>
 <dl>
-<dt>Audited URL</dt><dd>Pending — audit https://moonandstar.world/ after deployment.</dd>
-<dt>Run date/time and timezone</dt><dd>Pending capture</dd>
-<dt>Chrome and Lighthouse versions</dt><dd>Pending capture</dd>
-<dt>Mode / device / throttling</dt><dd>Required: Navigation / Mobile. Record the actual throttling settings from the report.</dd>
-<dt>Performance</dt><dd>Not measured</dd>
-<dt>Accessibility</dt><dd>Not measured</dd>
-<dt>Best Practices</dt><dd>Not measured</dd>
-<dt>SEO</dt><dd>Not measured</dd>
+<dt>Audited URL</dt><dd><a href="https://moonandstar.world/index.html">https://moonandstar.world/index.html</a></dd>
+<dt>Captured</dt><dd>November 1, 2026, 1:16 PM EST (18:16:24 UTC)</dd>
+<dt>Mode and device</dt><dd>Navigation / initial page load; Mobile; emulated Moto G Power; single page session</dd>
+<dt>Environment</dt><dd>Lighthouse 13.5.0; Chromium 156.0.0.0 with DevTools; simulated Slow 4G throttling and 4× CPU slowdown</dd>
+<dt>Performance</dt><dd>100 / 100</dd>
+<dt>Accessibility</dt><dd>100 / 100</dd>
+<dt>Best Practices</dt><dd>100 / 100</dd>
+<dt>SEO</dt><dd>100 / 100</dd>
+<dt>First Contentful Paint</dt><dd>0.8 s</dd>
+<dt>Largest Contentful Paint</dt><dd>0.8 s</dd>
+<dt>Total Blocking Time</dt><dd>0 ms</dd>
+<dt>Cumulative Layout Shift</dt><dd>0</dd>
+<dt>Speed Index</dt><dd>0.8 s</dd>
 </dl>
-<section class="evidence" aria-labelledby="screenshots"><h3 id="screenshots">Screenshots and exported report</h3>
-<p>Pending: add the score-summary screenshot and expanded issue screenshots here after the audit. Include captions with the URL, date and mobile Navigation settings. Save an HTML or JSON export alongside the images and link it here.</p>
-<!-- Replace the pending paragraph with real evidence, for example:
-<figure><img src="assets/lighthouse/mobile-summary.png" alt="Mobile Lighthouse score summary for the deployed homepage"><figcaption>Actual URL, run date, Navigation/Mobile settings and scores.</figcaption></figure>
-<p><a href="assets/lighthouse/mobile-report.html">View exported Lighthouse report</a></p>
--->
-</section>
-<section class="evidence" aria-labelledby="issues"><h3 id="issues">Issues and analysis</h3>
-<p>Pending the actual audit. For each failed audit, record its exact title, affected element or resource, why it matters on mobile, the fix or reason it remains, and the result of a repeat audit. If a category has no failures, say so only after reviewing the report. Record manual accessibility checks separately; an automated score does not establish complete accessibility.</p>
-</section>
-<h2 id="capture">Capture and publish the evidence</h2>
-<ol>
-<li>Deploy the updated homepage first. Open https://moonandstar.world/ in desktop Google Chrome and confirm the wrapping menu and report link appear.</li>
-<li>Open DevTools (F12 or Ctrl+Shift+I; on macOS Cmd+Option+I). Select Lighthouse, using the overflow menu if necessary.</li>
-<li>Select <strong>Navigation</strong> mode, <strong>Mobile</strong> device and Performance, Accessibility, Best Practices and SEO. Run Analyze page load (or Run audit, depending on Chrome version). Do not use Timespan or Snapshot mode.</li>
-<li>Capture the report summary with all four scores, the audited URL and the run settings. Expand failed audits and capture their details. Save the report as HTML and/or JSON from its export menu.</li>
-<li>Create assets/lighthouse/ in the repository and place your screenshots and exported report there. Replace the pending fields and evidence section in mobile-report.html with actual scores, images, links and your analysis. A commented example is included in this page’s source.</li>
-<li>Fix relevant issues, repeat the same mobile Navigation audit and label before/after results clearly. Deploy the evidence files and updated report page. Verify every image and report link on the live site.</li>
-</ol>
-<p><a href="https://developer.chrome.com/docs/lighthouse/overview/">Official Lighthouse instructions</a></p>
-<h2>Manual mobile checks</h2>
-<p id="manual-status">Browser checks on November 1, 2026: no horizontal overflow at requested widths of 320, 375, 390, 768 and 1280 CSS pixels (the browser rounded 375 to 376). All six navigation links, all eight assignment links, the logo and report link opened their expected local pages. All homepage link targets measured at least 48 pixels high. The keyboard skip link moved focus to main content, and the report’s capture anchor worked. These are browser viewport checks, not a Lighthouse audit or a real-device test. Before submission, also test on a real phone: portrait and landscape, every navigation and assignment link, logo return to Home, text zoom, keyboard focus and scrolling. Check the homepage at 320, 375, 390 and 768 CSS pixels wide and at desktop width.</p>
-<p><a href="index.html">Return to homepage</a></p>
+<p><a href="assets/lighthouse/homepage-lighthouse.html">Open the complete original Lighthouse report</a> · <a href="assets/lighthouse/homepage-lighthouse.json">View the extracted audit JSON</a></p>
+<figure style="margin-inline:0"><img src="assets/lighthouse/homepage-score-summary.png" width="802" height="1680" alt="Lighthouse summary for moonandstar.world/index.html: Performance, Accessibility, Best Practices and SEO each score 100; FCP, LCP and Speed Index are 0.8 seconds, blocking time is 0 milliseconds and layout shift is zero."><figcaption>Owner-supplied screenshot of the homepage audit scores and metrics. Audit captured November 1, 2026, 1:16 PM EST; Mobile Navigation, Slow 4G.</figcaption></figure>
+<details><summary>View the homepage capture stored in the Lighthouse export</summary><p>This image is extracted directly from the audit’s embedded full-page screenshot; it is not a new device test.</p><img src="assets/lighthouse/homepage-audit-capture.jpg" alt="Homepage captured during the Lighthouse audit, showing its wrapped navigation and assignment links."></details>
+<h2 id="analysis">Issues and analysis</h2>
+<p>All four scored categories reached 100. This run recorded a fast load, no blocking time and no layout shift. Scores can vary between runs. A perfect score does not mean every diagnostic or manual check is resolved.</p>
+<ul>
+<li><strong>Image delivery — estimated savings of 382 KiB:</strong> Lighthouse identifies assets/MoonAndStar.png, a 1254 × 1254 image shown in a 50 × 50 CSS-pixel logo box. Its resource size is 392,249 bytes. A smaller appropriately sized image and improved compression or a modern format are possible follow-up improvements. The logo has not been changed as part of this report update.</li>
+<li><strong>Cache lifetimes — estimated savings of 353 KiB:</strong> the logo and both stylesheets have 600-second (10-minute) cache lifetimes. The logo accounts for most of the potential savings. Longer caching may improve repeat visits, subject to hosting configuration and an asset-versioning strategy. No server cache policy has been changed.</li>
+<li><strong>Render-blocking requests and dependencies:</strong> main-theme.css (718 transfer bytes) and home-mobile.css (1,108 transfer bytes) block initial rendering. The maximum critical request chain is 61 ms. These files are small; retain the simple styling unless further measurement supports a change. Lighthouse found no additional useful preconnect candidates.</li>
+<li><strong>Accessibility and SEO:</strong> all scored checks passed. The report still lists 10 manual accessibility checks and a manual structured-data check. Keyboard order, focus visibility, screen-reader behavior and real-phone use require manual review; a score of 100 does not establish complete accessibility.</li>
+<li><strong>Security guidance:</strong> review the original report’s unscored CSP, HSTS, COOP, frame-control and Trusted Types guidance before making hosting changes. A Best Practices score of 100 is not a security certification. No security-header changes are claimed here.</li>
+</ul>
+<p>No baseline homepage audit was supplied, so this report does not claim a before/after score improvement. The supplied export is the evidence for the recorded deployed-page results; future changes require a repeat audit to establish new results.</p>
+<h2>Manual mobile interaction checks</h2>
+<p>Local browser checks at requested widths of 320, 375, 390, 768 and 1280 CSS pixels found no horizontal overflow (375 rounded to 376 in the test browser). All six navigation links, eight assignment links, the logo and report link opened their expected pages. Homepage link targets measured at least 48 pixels high. The keyboard skip link moved focus to main content. These are viewport and interaction checks, separate from the supplied Lighthouse audit. Real-phone, screen-reader and enlarged-text checks have not been recorded.</p>
+<p><a href="https://developer.chrome.com/docs/lighthouse/overview/">Official Lighthouse documentation</a> · <a href="index.html">Return to homepage</a></p>
 </main>
 </body>
 </html>
