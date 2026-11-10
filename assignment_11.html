@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Plan courses for Daytona State College's 2026–2027 Information Technology B.S.">
+    <title>BSIT Course Advisor | Assignment 11</title>
+    <link rel="stylesheet" href="css/main-theme.css">
+    <link rel="stylesheet" href="css/assignment_11_advisor.css">
+    <script src="js/assignment_11_advisor.js" defer></script>
+</head>
+<body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <header>
+        <nav aria-label="Main navigation">
+            <a class="logo" href="index.html"><img src="assets/MoonAndStar.png" alt="Moon and Star"></a>
+            <a href="index.html">Home</a>
+            <a href="assignment_11.html" aria-current="page">BSIT Advisor</a>
+        </nav>
+    </header>
+
+    <main id="main-content" tabindex="-1">
+        <header class="intro">
+            <p class="eyebrow">Daytona State College · 2026–2027 catalog</p>
+            <h1>BSIT Course Advisor</h1>
+            <p>Mark courses you’ve passed with a C or better, see what they unlock, and build a three-term plan.</p>
+            <p><a id="catalog-link" href="https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/program-guides/bs-degree/information-technology-bsit-b-s-degree">Official BSIT program guide</a></p>
+        </header>
+
+        <p id="status" class="status" role="status">Loading courses…</p>
+        <noscript><p>Enable JavaScript to load courses and use the planner.</p></noscript>
+
+        <div id="advisor" hidden>
+            <section aria-labelledby="progress-title" class="progress">
+                <h2 id="progress-title">Your progress</h2>
+                <p id="progress-summary"></p>
+                <details>
+                    <summary>Review degree choices</summary>
+                    <ul id="degree-choices"></ul>
+                </details>
+            </section>
+
+            <div class="planner">
+                <section class="plan" aria-labelledby="plan-title">
+                    <h2 id="plan-title">Term plan</h2>
+                    <p>Prerequisites must be finished before the term starts. Add any outstanding corequisites to the same term.</p>
+                    <div class="filters">
+                        <label>First term
+                            <select id="first-term"></select>
+                        </label>
+                        <label>Plan courses for
+                            <select id="active-term"></select>
+                        </label>
+                    </div>
+                    <div id="term-list" class="term-list"></div>
+                    <p id="save-note" class="muted">Your completed courses and plan are saved in this browser.</p>
+                </section>
+
+                <section aria-labelledby="courses-title">
+                    <h2 id="courses-title">Course browser</h2>
+                    <p>Use <strong>Add to plan</strong> or drag a course to a term. Open course details to see prerequisites, notes, and catalog links.</p>
+                    <div class="filters">
+                        <label>Find a course
+                            <input id="search" type="search" placeholder="Course code or title">
+                        </label>
+                        <label>Course group
+                            <select id="category">
+                                <option value="">All groups</option>
+                                <option>BSIT core</option>
+                                <option>Foundation</option>
+                                <option>Elective</option>
+                                <option>Supporting</option>
+                            </select>
+                        </label>
+                        <label>Show
+                            <select id="view">
+                                <option value="all">All courses</option>
+                                <option value="ready">Ready for selected term</option>
+                                <option value="completed">Completed courses</option>
+                            </select>
+                        </label>
+                    </div>
+                    <label class="check">
+                        <input id="extra" type="checkbox">
+                        Allow extra courses after a degree choice is filled
+                    </label>
+                    <p id="course-count" class="muted"></p>
+                    <div id="course-list" class="course-list"></div>
+                </section>
+            </div>
+        </div>
+
+        <footer>
+            <p>This planner covers the named BSIT courses and selected supporting courses. The official degree audit also reviews transfer credit, general education, lower-division technical credits, language competency, and civic literacy. Catalog seasons describe typical offerings. Check actual sections with Daytona State.</p>
+            <details>
+                <summary>Assignment 11 submission notes</summary>
+                <ul>
+                    <li>Built a BSIT-specific JSON course and offering dataset from the 2026–2027 catalog.</li>
+                    <li>Generated course cards, degree-choice summaries, and term lists from the data in JavaScript.</li>
+                    <li>Added AND and OR prerequisite checks, corequisite checks, and degree-choice rules with explanatory course notes.</li>
+                    <li>Added drag and drop, keyboard and touch-friendly planning controls, term credit totals, catalog links, and browser storage.</li>
+                </ul>
+            </details>
+        </footer>
+    </main>
+</body>
+</html>

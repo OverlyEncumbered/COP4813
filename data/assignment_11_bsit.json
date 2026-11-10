@@ -1,0 +1,965 @@
+{
+  "catalogUrl": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/program-guides/bs-degree/information-technology-bsit-b-s-degree",
+  "terms": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "programCredits": 48,
+  "groups": [
+    {
+      "id": "programming",
+      "name": "Programming language",
+      "note": "Choose one of C, C# or Java for this degree requirement. COP1000 is separately required.",
+      "options": [
+        [
+          "COP2220"
+        ],
+        [
+          "COP2360"
+        ],
+        [
+          "COP2800"
+        ]
+      ]
+    },
+    {
+      "id": "stats",
+      "name": "Statistics",
+      "note": "Choose one statistics course. The guide recommends STA2023 or EGN3443, and both are accepted by the BSIT courses that list a statistics prerequisite.",
+      "options": [
+        [
+          "STA2023"
+        ],
+        [
+          "EGN3443"
+        ]
+      ]
+    },
+    {
+      "id": "calculus",
+      "name": "Calculus",
+      "note": "Choose one calculus course.",
+      "options": [
+        [
+          "EGN2045"
+        ],
+        [
+          "MAC2311C"
+        ]
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "Digital technology",
+      "note": "Choose one digital technology course. The guide recommends CET3116.",
+      "options": [
+        [
+          "CET3116"
+        ],
+        [
+          "CET1112C"
+        ]
+      ]
+    },
+    {
+      "id": "discrete",
+      "name": "Discrete mathematics",
+      "note": "Choose one discrete math course. The guide recommends COT3100.",
+      "options": [
+        [
+          "COT3100"
+        ],
+        [
+          "MAD2104"
+        ]
+      ]
+    },
+    {
+      "id": "electrical",
+      "name": "Electrical fundamentals",
+      "note": "Complete one path. The guide recommends EET3086. Both other paths require EET1021C.",
+      "options": [
+        [
+          "EET3086"
+        ],
+        [
+          "EET3085",
+          "EET1021C"
+        ],
+        [
+          "EET1011C",
+          "EET1021C"
+        ]
+      ]
+    },
+    {
+      "id": "elective",
+      "name": "BSIT elective",
+      "note": "Choose one 3-credit program elective. Additional courses may be needed to reach your chosen elective.",
+      "options": [
+        [
+          "CAI4002"
+        ],
+        [
+          "CAI4805"
+        ],
+        [
+          "CAP3744"
+        ],
+        [
+          "COP4709"
+        ],
+        [
+          "COP4834"
+        ],
+        [
+          "CET4860"
+        ],
+        [
+          "CET4861"
+        ],
+        [
+          "CET4862"
+        ],
+        [
+          "CET4884"
+        ]
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "code": "CAI4002",
+      "title": "Introduction to Artificial Intelligence",
+      "credits": 3,
+      "terms": [
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cai-computing-artificial-intel/4000/cai4002",
+      "category": "Elective",
+      "prerequisites": [
+        [
+          "CAP3744"
+        ]
+      ]
+    },
+    {
+      "code": "CAI4805",
+      "title": "Artificial Intelligence Implementation and Maintenance",
+      "credits": 3,
+      "terms": [
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cai-computing-artificial-intel/4000/cai4805",
+      "category": "Elective",
+      "corequisites": [
+        [
+          "CAP3744"
+        ]
+      ]
+    },
+    {
+      "code": "CAP3744",
+      "title": "Data Analytics and Visualization",
+      "credits": 3,
+      "terms": [
+        "Fall"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cap-computer-science/3000/cap3744",
+      "category": "Elective",
+      "prerequisites": [
+        [
+          "COP3530"
+        ],
+        [
+          "COP4708"
+        ],
+        [
+          "STA2023",
+          "EGN3443"
+        ]
+      ]
+    },
+    {
+      "code": "CDA4101",
+      "title": "Computer Organization and Design",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cda-computer-science/4000/cda4101",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "CET1112C",
+          "CET3116"
+        ]
+      ]
+    },
+    {
+      "code": "CEN3722",
+      "title": "Human Computer Interfaces",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cen-computer-science/3000/cen3722",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "COP2800"
+        ],
+        [
+          "COP2220",
+          "COP2360"
+        ]
+      ],
+      "note": "The 2026–2027 course page lists Java followed by C or C#. This planner reads that as Java plus either C or C#. Confirm the catalog wording with advising."
+    },
+    {
+      "code": "CEN4010",
+      "title": "Software Engineering",
+      "credits": 3,
+      "terms": [
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cen-computer-science/4000/cen4010",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "COP3530"
+        ]
+      ]
+    },
+    {
+      "code": "CEN4801",
+      "title": "Systems Integration",
+      "credits": 3,
+      "terms": [
+        "Fall"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cen-computer-science/4000/cen4801",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "COP4708"
+        ],
+        [
+          "COP3530"
+        ]
+      ]
+    },
+    {
+      "code": "CET1112C",
+      "title": "Digital Fundamentals and Lab",
+      "credits": 4,
+      "terms": [
+        "Fall",
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cet-computer-electronic-tech/1000/cet1112c",
+      "category": "Foundation",
+      "corequisites": [
+        [
+          "EET1021C"
+        ]
+      ]
+    },
+    {
+      "code": "CET1600",
+      "title": "Network Plus",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cet-computer-electronic-tech/1000/cet1600",
+      "category": "Supporting"
+    },
+    {
+      "code": "CET3116",
+      "title": "Digital Technology",
+      "credits": 4,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cet-computer-electronic-tech/3000/cet3116",
+      "category": "Foundation",
+      "prerequisites": [
+        [
+          "MAC1114"
+        ]
+      ]
+    },
+    {
+      "code": "CET4860",
+      "title": "Introduction to Digital Forensics",
+      "credits": 3,
+      "terms": [
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cet-computer-electronic-tech/4000/cet4860",
+      "category": "Elective",
+      "prerequisites": [
+        [
+          "CIS4360"
+        ]
+      ]
+    },
+    {
+      "code": "CET4861",
+      "title": "Advanced Digital Forensics",
+      "credits": 3,
+      "terms": [
+        "Fall"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cet-computer-electronic-tech/4000/cet4861",
+      "category": "Elective",
+      "prerequisites": [
+        [
+          "CET4860"
+        ]
+      ]
+    },
+    {
+      "code": "CET4862",
+      "title": "Network Forensics and Incident Response",
+      "credits": 3,
+      "terms": [
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cet-computer-electronic-tech/4000/cet4862",
+      "category": "Elective",
+      "prerequisites": [
+        [
+          "CIS4360"
+        ]
+      ]
+    },
+    {
+      "code": "CET4884",
+      "title": "Security Methods and Practice",
+      "credits": 3,
+      "terms": [
+        "Fall"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cet-computer-electronic-tech/4000/cet4884",
+      "category": "Elective",
+      "corequisites": [
+        [
+          "GEB3213"
+        ]
+      ]
+    },
+    {
+      "code": "CIS4250",
+      "title": "Ethical Issues in IT",
+      "credits": 1,
+      "terms": [
+        "Summer",
+        "Fall"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cis-computer-science/4000/cis4250",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "GEB3213"
+        ]
+      ]
+    },
+    {
+      "code": "CIS4360",
+      "title": "Applied Cybersecurity",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cis-computer-science/4000/cis4360",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "CTS3348"
+        ],
+        [
+          "CET1600",
+          "CNT3104"
+        ]
+      ]
+    },
+    {
+      "code": "CIS4510",
+      "title": "IT Project Management",
+      "credits": 3,
+      "terms": [
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cis-computer-science/4000/cis4510",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "CEN4801"
+        ]
+      ]
+    },
+    {
+      "code": "CNT3104",
+      "title": "Introduction to Telecommunications",
+      "credits": 2,
+      "terms": [
+        "Summer",
+        "Fall"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cnt-computer-networking/3000/cnt3104",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "EET1021C",
+          "EET3086"
+        ]
+      ]
+    },
+    {
+      "code": "CNT4007",
+      "title": "Data and Computer Communications",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cnt-computer-networking/4000/cnt4007",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "CNT3104"
+        ],
+        [
+          "STA2023",
+          "EGN3443"
+        ]
+      ]
+    },
+    {
+      "code": "CNT4703",
+      "title": "Voice and Data Network Design",
+      "credits": 3,
+      "terms": [
+        "Summer",
+        "Fall"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cnt-computer-networking/4000/cnt4703",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "CNT4007"
+        ]
+      ]
+    },
+    {
+      "code": "COP1000",
+      "title": "Principles of Computer Programming",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cop-computer-science/1000/cop1000",
+      "category": "Foundation"
+    },
+    {
+      "code": "COP2220",
+      "title": "Computer Programming C",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cop-computer-science/2000/cop2220",
+      "category": "Foundation",
+      "prerequisites": [
+        [
+          "COP1000",
+          "MAC1105"
+        ]
+      ]
+    },
+    {
+      "code": "COP2360",
+      "title": "C# Programming",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cop-computer-science/2000/cop2360",
+      "category": "Foundation",
+      "prerequisites": [
+        [
+          "COP1000"
+        ]
+      ]
+    },
+    {
+      "code": "COP2800",
+      "title": "Computer Programming Java",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cop-computer-science/2000/cop2800",
+      "category": "Foundation",
+      "prerequisites": [
+        [
+          "COP1000"
+        ]
+      ]
+    },
+    {
+      "code": "COP3530",
+      "title": "Data Structures",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cop-computer-science/3000/cop3530",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "COP2800",
+          "COP2220",
+          "COP2360"
+        ],
+        [
+          "COT3100",
+          "MAD2104"
+        ]
+      ]
+    },
+    {
+      "code": "COP4610",
+      "title": "Operating Systems",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cop-computer-science/4000/cop4610",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "CTS3348"
+        ]
+      ]
+    },
+    {
+      "code": "COP4708",
+      "title": "Applied Database I",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cop-computer-science/4000/cop4708",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "COP2800",
+          "COP2220",
+          "COP2360"
+        ]
+      ]
+    },
+    {
+      "code": "COP4709",
+      "title": "Applied Database II",
+      "credits": 3,
+      "terms": [
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cop-computer-science/4000/cop4709",
+      "category": "Elective",
+      "prerequisites": [
+        [
+          "COP4708"
+        ]
+      ]
+    },
+    {
+      "code": "COP4813",
+      "title": "Web Systems I",
+      "credits": 3,
+      "terms": [
+        "Fall"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cop-computer-science/4000/cop4813",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "COP3530"
+        ]
+      ]
+    },
+    {
+      "code": "COP4834",
+      "title": "Web Systems II",
+      "credits": 3,
+      "terms": [
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cop-computer-science/4000/cop4834",
+      "category": "Elective",
+      "prerequisites": [
+        [
+          "COP4813"
+        ]
+      ]
+    },
+    {
+      "code": "COT3100",
+      "title": "Discrete Computational Analysis",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cot-computing-theory/3000/cot3100",
+      "category": "Foundation",
+      "prerequisites": [
+        [
+          "MAC1105"
+        ]
+      ]
+    },
+    {
+      "code": "CTS3348",
+      "title": "Linux Administration",
+      "credits": 3,
+      "terms": [
+        "Summer",
+        "Fall"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/cts-computer-science/3000/cts3348",
+      "category": "BSIT core",
+      "prerequisites": [
+        [
+          "MAC1105"
+        ]
+      ]
+    },
+    {
+      "code": "EET1011C",
+      "title": "Introduction to Electrical Circuits and Lab",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/eet-electronic-engineer-tech/1000/eet1011c",
+      "category": "Foundation",
+      "corequisites": [
+        [
+          "MAT1033",
+          "MAT1033A",
+          "MAC1105",
+          "MAC1114",
+          "MAC1140",
+          "EGN2045",
+          "MAC2311C"
+        ]
+      ],
+      "note": "The catalog also accepts qualifying higher math. Confirm any equivalency outside the courses shown."
+    },
+    {
+      "code": "EET1021C",
+      "title": "Advanced Electrical Circuits and Lab",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/eet-electronic-engineer-tech/1000/eet1021c",
+      "category": "Foundation",
+      "prerequisites": [
+        [
+          "EET1011C"
+        ],
+        [
+          "MAC1105"
+        ]
+      ]
+    },
+    {
+      "code": "EET3085",
+      "title": "Electricity and Electronics",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/eet-electronic-engineer-tech/3000/eet3085",
+      "category": "Foundation",
+      "prerequisites": [
+        [
+          "MAC1114"
+        ]
+      ],
+      "corequisites": [
+        [
+          "EET3085L"
+        ]
+      ],
+      "note": "The lab waiver on the course page is for BSET students. The BSIT planner includes the lab."
+    },
+    {
+      "code": "EET3085L",
+      "title": "Electricity and Electronics Lab",
+      "credits": 1,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2023-2024/college-catalog/course-descriptions/eet-electronic-engineer-tech/3000/eet3085l",
+      "category": "Supporting",
+      "corequisites": [
+        [
+          "EET3085"
+        ]
+      ],
+      "note": "Lab requirement comes from the 2026–2027 EET3085 listing. The lab’s listed seasons come from its archived course page."
+    },
+    {
+      "code": "EET3086",
+      "title": "Principles of Electrical Circuits",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/eet-electronic-engineer-tech/3000/eet3086",
+      "category": "Foundation",
+      "prerequisites": [
+        [
+          "MAC1114"
+        ]
+      ]
+    },
+    {
+      "code": "EGN2045",
+      "title": "Engineering and Technology Calculus I",
+      "credits": 4,
+      "terms": [
+        "Fall",
+        "Spring"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/egn-engineering/2000/egn2045",
+      "category": "Foundation",
+      "prerequisites": [
+        [
+          "MAC1114"
+        ]
+      ]
+    },
+    {
+      "code": "EGN3214",
+      "title": "Programming for Engineers",
+      "credits": 3,
+      "terms": [
+        "Summer",
+        "Fall"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/egn-engineering/3000/egn3214",
+      "category": "Supporting",
+      "corequisites": [
+        [
+          "EGN2045",
+          "MAC2311C"
+        ]
+      ]
+    },
+    {
+      "code": "EGN3443",
+      "title": "Probability and Statistics for Engineers",
+      "credits": 3,
+      "terms": [
+        "Fall"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/egn-engineering/3000/egn3443",
+      "category": "Foundation",
+      "corequisites": [
+        [
+          "EGN2045",
+          "MAC2311C"
+        ],
+        [
+          "EGN3214",
+          "COP2800",
+          "COP2220",
+          "COP2360"
+        ]
+      ]
+    },
+    {
+      "code": "ENC1101",
+      "title": "Introduction to Composition",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/enc-english-language-and-lit/1000/enc1101",
+      "category": "Supporting",
+      "historyOnly": true,
+      "note": "Requires placement into ENC1101. Record this admission course after it is complete."
+    },
+    {
+      "code": "GEB3213",
+      "title": "Business Writing",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/geb-general-business/3000/geb3213",
+      "category": "BSIT core"
+    },
+    {
+      "code": "MAC1105",
+      "title": "College Algebra",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/mac-mathematics/1000/mac1105",
+      "category": "Supporting",
+      "prerequisites": [
+        [
+          "MAT1033",
+          "MAT1033A"
+        ]
+      ]
+    },
+    {
+      "code": "MAC1114",
+      "title": "College Trigonometry",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/mac-mathematics/1000/mac1114",
+      "category": "Foundation",
+      "prerequisites": [
+        [
+          "MAC1105"
+        ]
+      ],
+      "note": "The course description also mentions placement, developmental exemptions and department permission."
+    },
+    {
+      "code": "MAC1140",
+      "title": "Pre-Calculus Algebra",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/mac-mathematics/1000/mac1140",
+      "category": "Supporting",
+      "prerequisites": [
+        [
+          "MAC1105"
+        ]
+      ]
+    },
+    {
+      "code": "MAC2311C",
+      "title": "Calculus I and Lab",
+      "credits": 4,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/mac-mathematics/2000/mac2311c",
+      "category": "Foundation",
+      "prerequisites": [
+        [
+          "MAC1114"
+        ],
+        [
+          "MAC1140"
+        ]
+      ]
+    },
+    {
+      "code": "MAD2104",
+      "title": "Discrete Mathematics",
+      "credits": 3,
+      "terms": [
+        "Fall"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/mad-mathematics/2000/mad2104",
+      "category": "Foundation",
+      "corequisites": [
+        [
+          "MAC1114"
+        ]
+      ],
+      "note": "The course description also mentions placement, developmental exemptions and department permission."
+    },
+    {
+      "code": "MAT1033",
+      "title": "Intermediate Algebra",
+      "credits": 4,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/mat-mathematics/1000/mat1033",
+      "category": "Supporting",
+      "historyOnly": true,
+      "note": "Record prior credit here. Developmental course planning is outside this advisor’s scope."
+    },
+    {
+      "code": "MAT1033A",
+      "title": "Intermediate Algebra (catalog alternative)",
+      "category": "Supporting",
+      "historyOnly": true,
+      "note": "Record prior credit here if it appears on your transcript. The MAC1105 and EET1011C listings reference this course."
+    },
+    {
+      "code": "STA2023",
+      "title": "Elementary Statistics",
+      "credits": 3,
+      "terms": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "url": "https://daytonastate.smartcatalogiq.com/en/2026-2027/college-catalog/course-descriptions/sta-statistics/2000/sta2023",
+      "category": "Foundation"
+    }
+  ]
+}
