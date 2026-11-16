@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Compare five content management systems, with technology stacks, capabilities, limitations, and documented examples.">
+    <title>Content Management Systems | COP4813</title>
+    <link rel="stylesheet" href="css/main-theme.css">
+    <link rel="stylesheet" href="css/cms.css">
+    <script src="js/cms.js" defer></script>
+</head>
+<body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <header>
+        <nav aria-label="Main navigation">
+            <a class="logo" href="index.html"><img src="assets/MoonAndStar.png" alt="Moon and Star" width="50" height="50"></a>
+            <a href="index.html">Home</a>
+            <a href="cms.html" aria-current="page">CMS Comparison</a>
+        </nav>
+    </header>
+    <main id="main-content" tabindex="-1">
+        <p class="eyebrow">COP4813 · Web Systems</p>
+        <h1>Content Management Systems</h1>
+        <p>A CMS provides tools to create, organize, and publish website content. This table compares five systems and the tradeoffs involved in choosing one.</p>
+        <p>Each category includes research links. Technology descriptions cover the server, storage, and browser layers; exact version requirements depend on the CMS release.</p>
+        <p><a href="data/cms.json">View the external JSON data</a></p>
+        <p id="status" role="status">Loading CMS comparison…</p>
+        <noscript><p>Enable JavaScript to generate the table, or open the JSON data above to read the research.</p></noscript>
+        <div id="comparison" hidden>
+            <p id="table-help">On smaller screens, scroll horizontally to read all six columns. Keyboard users can focus the table area and use the arrow keys.</p>
+            <div class="table-scroll" tabindex="0" role="region" aria-label="CMS comparison table" aria-describedby="table-help">
+                <table>
+                    <caption>Five content management systems — <span id="research-date"></span></caption>
+                    <thead><tr>
+                        <th scope="col">System</th>
+                        <th scope="col">Produced/Sold by (Support)</th>
+                        <th scope="col">Technology Base</th>
+                        <th scope="col">Major Capabilities</th>
+                        <th scope="col">Major Limitations</th>
+                        <th scope="col">Example Site</th>
+                    </tr></thead>
+                    <tbody id="cms-rows"></tbody>
+                </table>
+            </div>
+        </div>
+        <section aria-labelledby="selection-title">
+            <h2 id="selection-title">Which would I choose?</h2>
+            <p>For a general website, I would start with WordPress because its themes and plugins cover many common needs. Drupal would be worth considering for more structured content and complex permissions. Joomla is another option for multilingual sites with different user access levels. Ghost fits a publication built around newsletters and subscriptions, while Grav fits a smaller content site where file-based storage is useful.</p>
+            <p>These are my selection judgments based on the capabilities and tradeoffs documented in the table.</p>
+        </section>
+    </main>
+</body>
+</html>

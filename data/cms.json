@@ -1,0 +1,302 @@
+{
+  "researched": "2026-11-15",
+  "systems": [
+    {
+      "name": "WordPress",
+      "url": "https://wordpress.org/",
+      "support": {
+        "text": "Free, open-source software maintained by the WordPress contributor community. Community forums and commercial hosting/support are available. WordPress.org software is separate from the WordPress.com hosting service.",
+        "sources": [
+          {
+            "label": "About WordPress",
+            "url": "https://wordpress.org/about/"
+          }
+        ]
+      },
+      "technology": {
+        "text": "PHP server application with MySQL or MariaDB; Apache or Nginx is recommended. Browser interface and generated pages use HTML, CSS, and JavaScript.",
+        "sources": [
+          {
+            "label": "Requirements",
+            "url": "https://wordpress.org/about/requirements/"
+          }
+        ]
+      },
+      "capabilities": {
+        "text": "Themes and block editing; plugins; user roles; media management; custom content types; REST API for external applications.",
+        "sources": [
+          {
+            "label": "Features",
+            "url": "https://wordpress.org/about/features/"
+          }
+        ]
+      },
+      "limitations": {
+        "text": "Self-hosted installations require backups and ongoing core, theme, and plugin updates. Vulnerable or unmaintained plugins can expose the site to attacks; installing more plugins adds maintenance work.",
+        "sources": [
+          {
+            "label": "Security and plugins",
+            "url": "https://developer.wordpress.org/advanced-administration/security/hardening/"
+          }
+        ]
+      },
+      "examples": {
+        "text": "NASA \u2014 public news, science, and mission information.",
+        "sources": [
+          {
+            "label": "Visit NASA",
+            "url": "https://www.nasa.gov/"
+          },
+          {
+            "label": "WordPress showcase evidence",
+            "url": "https://wordpress.org/showcase/nasa/"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Drupal",
+      "url": "https://www.drupal.org/",
+      "support": {
+        "text": "Free, open-source software developed by a global community. The Drupal Association supports project infrastructure; community help and paid service providers are available.",
+        "sources": [
+          {
+            "label": "About Drupal",
+            "url": "https://www.drupal.org/about"
+          },
+          {
+            "label": "Association work",
+            "url": "https://www.drupal.org/association/work"
+          }
+        ]
+      },
+      "technology": {
+        "text": "PHP with Symfony components and Twig templates; MySQL, MariaDB, PostgreSQL, or SQLite. Apache/Nginx serves the site; Composer manages dependencies. Browser pages use HTML, CSS, and JavaScript.",
+        "sources": [
+          {
+            "label": "System requirements",
+            "url": "https://www.drupal.org/docs/getting-started/system-requirements"
+          },
+          {
+            "label": "Technical overview",
+            "url": "https://new.drupal.org/about/overview/technical"
+          }
+        ]
+      },
+      "capabilities": {
+        "text": "Structured content types and fields; modules and themes; multilingual publishing; permissions; APIs for delivering content to separate frontends.",
+        "sources": [
+          {
+            "label": "Features",
+            "url": "https://www.drupal.org/features"
+          },
+          {
+            "label": "Technical overview",
+            "url": "https://new.drupal.org/about/overview/technical"
+          }
+        ]
+      },
+      "limitations": {
+        "text": "Deployment must satisfy PHP, database, and Composer requirements. Windows production hosting is unsupported. Assessment: this dependency management makes self-hosting more involved than simply uploading static pages.",
+        "sources": [
+          {
+            "label": "Hosting requirements",
+            "url": "https://www.drupal.org/docs/getting-started/system-requirements"
+          }
+        ]
+      },
+      "examples": {
+        "text": "Drupal.org \u2014 community documentation and project resources.",
+        "sources": [
+          {
+            "label": "Visit Drupal.org",
+            "url": "https://www.drupal.org/"
+          },
+          {
+            "label": "Drupal.org software evidence",
+            "url": "https://www.drupal.org/drupalorg/software"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Joomla",
+      "url": "https://www.joomla.org/",
+      "support": {
+        "text": "Free, open-source CMS developed by community volunteers. Open Source Matters, Inc. provides organizational support; community documentation and extension vendors offer help.",
+        "sources": [
+          {
+            "label": "About Joomla",
+            "url": "https://www.joomla.org/about-joomla.html"
+          },
+          {
+            "label": "Project and organization",
+            "url": "https://www.joomla.org/"
+          }
+        ]
+      },
+      "technology": {
+        "text": "PHP application using an MVC framework with MySQL, MariaDB, or PostgreSQL. Runs on Apache, Nginx, or IIS. Templates deliver HTML, CSS, and JavaScript to browsers.",
+        "sources": [
+          {
+            "label": "Technical requirements",
+            "url": "https://manual.joomla.org/docs/get-started/technical-requirements/"
+          },
+          {
+            "label": "MVC framework",
+            "url": "https://www.joomla.org/about-joomla.html"
+          }
+        ]
+      },
+      "capabilities": {
+        "text": "Templates and extensions; multilingual content; user access controls; article and media management; customizable layouts.",
+        "sources": [
+          {
+            "label": "Core features",
+            "url": "https://www.joomla.org/about-joomla/core-features.html"
+          }
+        ]
+      },
+      "limitations": {
+        "text": "Extensions must be checked for compatibility before upgrades. Customized or older extensions can need developer assistance during migration, increasing the work required to keep a site current.",
+        "sources": [
+          {
+            "label": "Migration self assessment",
+            "url": "https://guide.joomla.org/user-guide/migration/migration-and-upgrade-self-assessment"
+          },
+          {
+            "label": "Migration basics",
+            "url": "https://guide.joomla.org/user-guide/migration/migration-migration-basics"
+          }
+        ]
+      },
+      "examples": {
+        "text": "Joomla.org \u2014 the project\u2019s own CMS website.",
+        "sources": [
+          {
+            "label": "Visit Joomla.org",
+            "url": "https://www.joomla.org/"
+          },
+          {
+            "label": "Official project website directory",
+            "url": "https://github.com/joomla/joomla-websites"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghost",
+      "url": "https://ghost.org/",
+      "support": {
+        "text": "Open-source publishing software run by the nonprofit Ghost Foundation. Ghost(Pro) offers paid managed hosting; self-hosted users can use community forums.",
+        "sources": [
+          {
+            "label": "About Ghost",
+            "url": "https://ghost.org/about/"
+          },
+          {
+            "label": "Hosting and support",
+            "url": "https://docs.ghost.org/hosting/"
+          }
+        ]
+      },
+      "technology": {
+        "text": "JavaScript on Node.js with MySQL for supported production hosting, typically behind Nginx on Ubuntu. Handlebars themes produce browser-facing HTML, CSS, and JavaScript.",
+        "sources": [
+          {
+            "label": "Production stack",
+            "url": "https://docs.ghost.org/hosting/"
+          },
+          {
+            "label": "Theme documentation",
+            "url": "https://docs.ghost.org/themes/"
+          }
+        ]
+      },
+      "capabilities": {
+        "text": "Visual publishing editor; custom themes; newsletters; free and paid memberships; integrations and APIs for custom frontends.",
+        "sources": [
+          {
+            "label": "Ghost features",
+            "url": "https://ghost.org/"
+          }
+        ]
+      },
+      "limitations": {
+        "text": "Official production support targets a narrow server stack. Clustering and sharding are unsupported. Self-hosting requires server maintenance and separate email delivery setup/services.",
+        "sources": [
+          {
+            "label": "Hosting tradeoffs",
+            "url": "https://docs.ghost.org/hosting/"
+          }
+        ]
+      },
+      "examples": {
+        "text": "404 Media \u2014 independent technology journalism and subscriptions.",
+        "sources": [
+          {
+            "label": "Visit 404 Media",
+            "url": "https://www.404media.co/"
+          },
+          {
+            "label": "Ghost directory evidence",
+            "url": "https://explore.ghost.org/p/404-media"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Grav",
+      "url": "https://getgrav.org/",
+      "support": {
+        "text": "Free, open-source CMS created by Andy Miller and maintained by the Grav team and contributors. Community forums, documentation, and commercial services are available.",
+        "sources": [
+          {
+            "label": "About Grav",
+            "url": "https://getgrav.org/about"
+          }
+        ]
+      },
+      "technology": {
+        "text": "PHP with Symfony components and Twig templates. Stores normal page content in Markdown files with YAML metadata instead of a SQL database. Themes render HTML, CSS, and JavaScript for browsers.",
+        "sources": [
+          {
+            "label": "Architecture",
+            "url": "https://learn.getgrav.org/17/basics/what-is-grav"
+          },
+          {
+            "label": "Features",
+            "url": "https://getgrav.org/features"
+          }
+        ]
+      },
+      "capabilities": {
+        "text": "Themes and plugins; Markdown editing; multilingual content; modular pages; caching; file-based backups and version control.",
+        "sources": [
+          {
+            "label": "Features",
+            "url": "https://getgrav.org/features"
+          }
+        ]
+      },
+      "limitations": {
+        "text": "The normal page tree is awkward for large collections of structured records such as products or bookings. Those use cases need extra modeling with Flex types/plugins or custom development rather than ordinary pages.",
+        "sources": [
+          {
+            "label": "Structured-data tradeoffs",
+            "url": "https://learn.getgrav.org/2/advanced/flex"
+          }
+        ]
+      },
+      "examples": {
+        "text": "Grav documentation \u2014 the official learning and reference site, which identifies itself as powered by Grav.",
+        "sources": [
+          {
+            "label": "Visit Grav documentation / evidence",
+            "url": "https://learn.getgrav.org/2/advanced/flex"
+          }
+        ]
+      }
+    }
+  ]
+}
