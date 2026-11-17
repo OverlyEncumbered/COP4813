@@ -29,7 +29,7 @@ function makeCell(data) {
 async function loadComparison() {
     const status = document.getElementById('status');
     try {
-        const response = await fetch('data/cms.json');
+        const response = await fetch('data/assignment_12.json');
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
         if (!Array.isArray(data.systems) || data.systems.length < 5) {
@@ -47,13 +47,13 @@ async function loadComparison() {
             });
             rows.append(row);
         });
-        document.getElementById('cms-rows').replaceChildren(rows);
+        document.getElementById('assignment-12-rows').replaceChildren(rows);
         document.getElementById('research-date').textContent = `research reviewed ${data.researched}`;
         document.getElementById('comparison').hidden = false;
         status.textContent = `${data.systems.length} content management systems loaded from the external JSON file.`;
     } catch (error) {
         status.textContent = 'The comparison could not load. Refresh to try again, or use the JSON link above. For local previews, serve this folder over HTTP instead of opening the HTML as a file.';
-        console.error('CMS comparison:', error);
+        console.error('Assignment 12 comparison:', error);
     }
 }
 
